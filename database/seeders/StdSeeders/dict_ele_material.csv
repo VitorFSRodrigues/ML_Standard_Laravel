@@ -1,0 +1,189 @@
+﻿Termo;Descrição Padrão
+Galvanizado;Galvanizado
+Galv;Galvanizado
+PVC;PVC
+Alumínio;Alumínio
+Aluminio;Alumínio
+Fibra;Fibra de Vidro
+Aramado;Aramado
+Aramada;Aramado
+Flexível;Flexível
+Flexivel;Flexível
+Sealtub;Flexível
+Pead;Kanaflex
+Kanaflex;Kanaflex
+"Vergalhão 1/4""";Aramado
+"Vergalhão de 1/4""";Aramado
+Inox;Aço Inox
+Saída;Galvanizado
+Eletroduto;Galvanizado
+Eletrocalha;Galvanizado
+Leito;Galvanizado
+Condulete;Alumínio
+Caixa de Ligação;Alumínio
+Abraçadeira;Galvanizado
+Braçadeira;Galvanizado
+"Grampo ""U""";Galvanizado
+Grampo U;Galvanizado
+Corrugado;Flexível
+0,6/1kV;0,6/1kV
+0,6 / 1kV;0,6/1kV
+8,7/15kV;8,7/15kV
+8,7 / 15kV;8,7/15kV
+12/20kV;12/20kV
+12 / 20kV;12/20kV
+3,6/6kV;3,6/6kV
+3,6 / 6kV;3,6/6kV
+6/10kV;6/10kV
+6 / 10kV;6/10kV
+300V;300V
+300 V;300V
+500V;500V
+500 V;500V
+Instrumentação;300V
+Controle;500V
+Baixa Tensão;0,6/1kV
+Cobre Nú;Cobre Nu
+Cobre Nu;Cobre Nu
+Aterramento;Cobre Nu
+Tampa;Galvanizado
+1kV;0,6/1kV
+1 kV;0,6/1kV
+600 / 1000;0,6/1kV
+450/750V;450/750V
+450/ 750 V;450/750V
+750V;450/750V
+750 V;450/750V
+450 / 750;450/750V
+600/750;0,6/1kV
+600V;0,6/1kV
+0,6/1 kV;0,6/1kV
+0,6 / 1 kV;0,6/1kV
+8,7/15 kV;8,7/15kV
+8,7 / 15 kV;8,7/15kV
+12/20 kV;12/20kV
+12 / 20 kV;12/20kV
+6/10 kV;6/10kV
+6 / 10 kV;6/10kV
+1000V;0,6/1kV
+1000 V;0,6/1kV
+600V;0,6/1kV
+600 V;0,6/1kV
+600/1000;0,6/1kV
+600 / 1000;0,6/1kV
+0,75kV;450/750V
+0.75kV;450/750V
+0,75 kV;450/750V
+0.75 kV;450/750V
+Flexíveis;Flexível
+Flexiveis;Flexível
+Estanho;Estanhado
+Estanhado;Estanhado
+Bronze;Bronze
+Latão;Latão
+Cobre;Cobre
+Termoplástico;Termoplástico
+Termoplastico;Termoplástico
+Estampada;Estampada
+Estampado;Estampada
+Led;LED
+Terminal;0,6/1kV
+Luminária;LED
+Haste;Bronze
+Botoeira;Termoplástico
+Interruptor;Termoplástico
+Seco;Seco
+Óleo;Óleo
+Transformador;Óleo
+2500kVA;Seco
+Chumbador;Galvanizado
+Vergalhão;Galvanizado
+Gancho;Galvanizado
+Suporte;Galvanizado
+Nylon;Nylon
+15kV;8,7/15kV
+Cabo NU;Cobre Nu
+Potência;0,6/1kV
+Tomada;Termoplástico
+Cabo flexível;0,6/1kV
+Cabo elétrico;0,6/1kV
+Cabo eletrico;0,6/1kV
+Cat.6;Categoria 6
+Cat. 6;Categoria 6
+Categoria 6;Categoria 6
+Cat 6;Categoria 6
+Prensa Cabo;Galvanizado
+Compressão;0,6/1kV
+Cabo;0,6/1kV
+Profibus;Par Trançado
+Sinal;300V
+Sinais;300V
+17,5kV;12/20kV
+Comunicação;300V
+Cat.5;Categoria 5E
+Cat. 5;Categoria 5E
+Categoria 5;Categoria 5E
+Cat 5;Categoria 5E
+Barra;Bronze
+Horizontal;Galvanizado
+Vertical;Galvanizado
+Interna;Galvanizado
+Externa;Galvanizado
+Perfilado;Galvanizado
+Contole;500V
+0,5kV;500V
+AI ;Aço Inox
+Cobre Eletrolitico Nu;Cobre Nu
+Prensa-Cabo;Galvanizado
+8.7/15kV;8,7/15kV
+PVC;PVC
+Poliamida;PVC
+Iluminação;450/750V
+Inox;Aço Inox
+Macho Giratório;Galvanizado
+Macho Giratorio;Galvanizado
+Macho Fixo;Galvanizado
+Fêmea Fixa;Galvanizado
+Fêmea Giratório;Galvanizado
+Fêmea Giratorio;Galvanizado
+Femea Giratório;Galvanizado
+Femea Giratorio;Galvanizado
+0,3/0,5kV;300V
+Cabo de Cobre com Alma de Aço;Cobre Nu
+Polietileno de Alta Densidade;Kanaflex
+3,6 / 6 kV;3,6/6kV
+Caixa de Alumínio;Estampada
+Conector para aterramento;Bronze
+Cartucho;Cobre
+Exotérmica;Cobre
+Luminaria;LED
+2500 kVA;Seco
+Cobre Eletrolítico Nu;Cobre Nu
+"nu; cobre";Cobre Nu
+0,45/0,75[kV];450/750V
+7 Fios;Cobre Nu
+15 kV;8,7/15kV
+ 12/20 ;12/20kV
+HDPE;Kanaflex
+Furo;Estanhado
+Explosiva;Alumínio
+Exotermica;Cobre
+Kanalex;Kanaflex
+Grampo tipo U;Galvanizado
+0,5[kV];500V
+Zonas 1 e 2;Alumínio
+Condulete de Alumínio;Estampada
+Condulete de Aluminio;Estampada
+Tirante;Galvanizado
+Saida;Galvanizado
+Área Classificada;Alumínio
+Bloco Autônomo;LED
+Conector de emenda;Bronze
+Caixa para tomada;Galvanizado
+Tubing;Aço Inox
+Cabo Óptico;Fibra Óptica
+Fibra Óptica;Fibra Óptica
+Swagelok;Aço Inox
+Fibra ótica;Fibra Óptica
+Fibra Optica;Fibra Óptica
+A182;Aço Inox

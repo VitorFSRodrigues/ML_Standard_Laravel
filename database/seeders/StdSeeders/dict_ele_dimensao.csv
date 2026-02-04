@@ -1,0 +1,2555 @@
+﻿Termo;Descrição Padrão
+"6""";"6"""
+"1.1/4""";"1.1/4"""
+"11/4""";"1.1/4"""
+"1 1/4""";"1.1/4"""
+"3/4""";"3/4"""
+"4""";"4"""
+"3""";"3"""
+"2.1/2""";"2.1/2"""
+"21/2""";"2.1/2"""
+"2 1/2""";"2.1/2"""
+"1.1/2""";"1.1/2"""
+"11/2""";"1.1/2"""
+"1 1/2""";"1.1/2"""
+"1/2""";"1/2"""
+"2""";"2"""
+"1""";"1"""
+"1/4""";"1/4"""
+"6 """;"6"""
+"1.1/4 """;"1.1/4"""
+"11/4 """;"1.1/4"""
+"1 1/4 """;"1.1/4"""
+"3/4 """;"3/4"""
+"4 """;"4"""
+"3 """;"3"""
+"2.1/2 """;"2.1/2"""
+"21/2 """;"2.1/2"""
+"2 1/2 """;"2.1/2"""
+"1.1/2 """;"1.1/2"""
+"11/2 """;"1.1/2"""
+"1 1/2 """;"1.1/2"""
+"1/2 """;"1/2"""
+"2 """;"2"""
+"1 """;"1"""
+"1/4""";"1/4"""
+"dn 6""";"6"""
+"dn 1.1/4""";"1.1/4"""
+"dn 1 1/4""";"1.1/4"""
+"dn 11/4""";"1.1/4"""
+"dn 3/4""";"3/4"""
+"dn 4""";"4"""
+"dn 3""";"3"""
+"dn 2.1/2""";"2.1/2"""
+"dn 2 1/2""";"2.1/2"""
+"dn 21/2""";"2.1/2"""
+"dn 1.1/2""";"1.1/2"""
+"dn 1 1/2""";"1.1/2"""
+"dn 11/2""";"1.1/2"""
+"dn 1/2""";"1/2"""
+"dn 2""";"2"""
+"dn 1""";"1"""
+"dn 1/4""";"1/4"""
+dn150;"6"""
+dn100;"4"""
+dn80;"3"""
+dn65;"2.1/2"""
+dn50;"2"""
+dn40;"1.1/2"""
+dn32;"1.1/4"""
+dn25;"1"""
+dn20;"3/4"""
+dn15;"1/2"""
+dn10;"1/2"""
+dn 150;"6"""
+dn 100;"4"""
+dn 80;"3"""
+dn 65;"2.1/2"""
+dn 50;"2"""
+dn 40;"1.1/2"""
+dn 32;"1.1/4"""
+dn 25;"1"""
+dn 20;"3/4"""
+dn 15;"1/2"""
+dn 10;"1/2"""
+ 6x;"6"""
+ 1.1/4x;"1.1/4"""
+ 11/4x;"1.1/4"""
+ 1 1/4x;"1.1/4"""
+ 3/4x;"3/4"""
+ 4x;"4"""
+ 3x;"3"""
+ 2.1/2x;"2.1/2"""
+ 21/2x;"2.1/2"""
+ 2 1/2x;"2.1/2"""
+ 1.1/2x;"1.1/2"""
+ 11/2x;"1.1/2"""
+ 1 1/2x;"1.1/2"""
+ 1/2x;"1/2"""
+ 2x;"2"""
+ 1x;"1"""
+1/4x;"1/2"""
+ 6 x;"6"""
+ 1.1/4 x;"1.1/4"""
+ 11/4 x;"1.1/4"""
+ 1 1/4 x;"1.1/4"""
+ 3/4 x;"3/4"""
+ 4 x;"4"""
+ 3 x;"3"""
+ 2.1/2 x;"2.1/2"""
+ 21/2 x;"2.1/2"""
+ 2 1/2 x;"2.1/2"""
+ 1.1/2 x;"1.1/2"""
+ 11/2 x;"1.1/2"""
+ 1 1/2 x;"1.1/2"""
+ 1/2 x;"1/2"""
+ 2 x;"2"""
+ 1 x;"1"""
+1/4 x;"1/2"""
+dn 150;"6"""
+dn 100;"4"""
+dn 80;"3"""
+dn 65;"2.1/2"""
+dn 50;"2"""
+dn 40;"1.1/2"""
+dn 32;"1.1/4"""
+dn 25;"1"""
+dn 20;"3/4"""
+dn 15;"1/2"""
+dn 10;"1/2"""
+150 mm;"6"""
+100 mm;"4"""
+80 mm;"3"""
+65 mm;"2.1/2"""
+50 mm;"2"""
+40 mm;"1.1/2"""
+32 mm;"1.1/4"""
+25 mm;"1"""
+20 mm;"3/4"""
+15 mm;"1/2"""
+10 mm;"1/2"""
+"1 ½""";"1.1/2"""
+"1. ½""";"1.1/2"""
+"1  ½""";"1.1/2"""
+"¾""";"3/4"""
+"½""";"1/2"""
+"1¼""";"1.1/4"""
+"1.¼""";"1.1/4"""
+"1 ¼""";"1.1/4"""
+1 ½;"1.1/2"""
+1. ½;"1.1/2"""
+1  ½;"1.1/2"""
+¾;"3/4"""
+½;"1/2"""
+1¼;"1.1/4"""
+1.¼;"1.1/4"""
+1 ¼;"1.1/4"""
+"¼""";"1/2"""
+¼;"1/2"""
+nps 6;"6"""
+nps 1.1/4;"1.1/4"""
+nps 11/4;"1.1/4"""
+nps 11/4;"1.1/4"""
+nps 3/4;"3/4"""
+nps 4;"4"""
+nps 3;"3"""
+nps 2.1/2;"2.1/2"""
+nps 21/2;"2.1/2"""
+nps 21/2;"2.1/2"""
+nps 1.1/2;"1.1/2"""
+nps 11/2;"1.1/2"""
+nps 1 1/2;"1.1/2"""
+nps 1/2;"1/2"""
+nps 2;"2"""
+nps 1;"1"""
+nps 1/4;"1/2"""
+6 poelgada;"6"""
+1.1/4 polegada;"1.1/4"""
+11/4 poelgada;"1.1/4"""
+1 1/4 poelgada;"1.1/4"""
+3/4 poelgada;"3/4"""
+4 polegada;"4"""
+3 polegada;"3"""
+2.1/2 poelgada;"2.1/2"""
+21/2 poelgada;"2.1/2"""
+2 1/2 poolegada;"2.1/2"""
+1.1/2 polegada;"1.1/2"""
+11/2 polegada;"1.1/2"""
+1 1/2 polegada;"1.1/2"""
+1/2 polegada;"1/2"""
+2 polegada;"2"""
+1 polegada;"1"""
+6 poelgada;"6"""
+1.1/4 pol;"1.1/4"""
+11/4 poelgada;"1.1/4"""
+1 1/4 poelgada;"1.1/4"""
+3/4 poelgada;"3/4"""
+4 pol;"4"""
+3 pol;"3"""
+2.1/2 poelgada;"2.1/2"""
+21/2 poelgada;"2.1/2"""
+2 1/2 poolegada;"2.1/2"""
+1.1/2 pol;"1.1/2"""
+11/2 pol;"1.1/2"""
+1 1/2 pol;"1.1/2"""
+1/2 pol;"1/2"""
+2 pol;"2"""
+1 pol;"1"""
+1/4 pol;"1/2"""
+diam 6;"6"""
+diam 1.1/4;"1.1/4"""
+diam 11/4;"1.1/4"""
+diam 11/4;"1.1/4"""
+diam 3/4;"3/4"""
+diam 4;"4"""
+diam 3;"3"""
+diam 2.1/2;"2.1/2"""
+diam 21/2;"2.1/2"""
+diam 21/2;"2.1/2"""
+"diam 1.1/2""";"1.1/2"""
+diam 11/2;"1.1/2"""
+diam 1 1/2;"1.1/2"""
+diam 1/2;"1/2"""
+diam 2;"2"""
+diam 1;"1"""
+diam 1/4;"1/2"""
+"diam 6""";"6"""
+"diam 1.1/4""";"1.1/4"""
+"diam 11/4""";"1.1/4"""
+"diam 11/4""";"1.1/4"""
+"diam 3/4""";"3/4"""
+"diam 4""";"4"""
+"diam 3""";"3"""
+"diam 2.1/2""";"2.1/2"""
+"diam 21/2""";"2.1/2"""
+"diam 21/2""";"2.1/2"""
+"diam 1.1/2""";"1.1/2"""
+"diam 11/2""";"1.1/2"""
+"diam 1 1/2""";"1.1/2"""
+"diam 1/2""";"1/2"""
+"diam 2""";"2"""
+"diam 1""";"1"""
+"diam 1/4""";"1/4"""
+"0.75""";"3/4"""
+"1.25""";"1.1/4"""
+"1.5""";"1.1/2"""
+"2.5""";"2.1/2"""
+"diam6""";"6"""
+"diam1.1/4""";"1.1/4"""
+"diam1 1/4""";"1.1/4"""
+"diam11/4""";"1.1/4"""
+"diam3/4""";"3/4"""
+"diam4""";"4"""
+"diam3""";"3"""
+"diam2.1/2""";"2.1/2"""
+"diam2 1/2""";"2.1/2"""
+"diam21/2""";"2.1/2"""
+"diam1.1/2""";"1.1/2"""
+"diam1 1/2""";"1.1/2"""
+"diam11/2""";"1.1/2"""
+"diam1/2""";"1/2"""
+"diam2""";"2"""
+"diam1""";"1"""
+"diam1/4""";"1/4"""
+diam 150;"6"""
+diam 100;"4"""
+diam 80;"3"""
+diam 65;"2.1/2"""
+diam 50;"2"""
+diam 40;"1.1/2"""
+diam 32;"1.1/4"""
+diam 25;"1"""
+diam 20;"3/4"""
+diam 15;"1/2"""
+diam 10;"1/2"""
+diam150;"6"""
+diam100;"4"""
+diam80;"3"""
+diam65;"2.1/2"""
+diam50;"2"""
+diam40;"1.1/2"""
+diam32;"1.1/4"""
+diam25;"1"""
+diam20;"3/4"""
+diam15;"1/2"""
+diam10;"1/2"""
+"2""1/2";"2.1/2"""
+"2""1/2""";"2.1/2"""
+"1""1/2""";"1.1/2"""
+"1""1/2";"1.1/2"""
+dn 160;"6"""
+dn 110;"4"""
+dn 85;"3"""
+dn 75;"2.1/2"""
+dn 60;"2"""
+dn 50;"1.1/2"""
+dn 40;"1.1/4"""
+dn 32;"1"""
+dn 25;"3/4"""
+dn 20;"1/2"""
+dn160;"6"""
+dn110;"4"""
+dn85;"3"""
+dn75;"2.1/2"""
+dn60;"2"""
+dn50;"1.1/2"""
+dn40;"1.1/4"""
+dn32;"1"""
+dn25;"3/4"""
+dn20;"1/2"""
+"6""x";"6"""
+"1.1/4""x";"1.1/4"""
+"1 1/4""x";"1.1/4"""
+"11/4""x";"1.1/4"""
+"3/4""x";"3/4"""
+"4""x";"4"""
+"3""x";"3"""
+"2.1/2""x";"2.1/2"""
+"2 1/2""x";"2.1/2"""
+"21/2""x";"2.1/2"""
+"1.1/2""x";"1.1/2"""
+"1 1/2""x";"1.1/2"""
+"11/2""x";"1.1/2"""
+"1/2""x";"1/2"""
+"2""x";"2"""
+"1""x";"1"""
+"1/4""x";"1/4"""
+" 6"" x";"6"""
+"1.1/4"" x";"1.1/4"""
+" 1 1/4"" x";"1.1/4"""
+"11/4"" x";"1.1/4"""
+"3/4"" x";"3/4"""
+"4"" x";"4"""
+"3"" x";"3"""
+"2.1/2"" x";"2.1/2"""
+"2 1/2"" x";"2.1/2"""
+"21/2"" x";"2.1/2"""
+"1.1/2"" x";"1.1/2"""
+"1 1/2"" x";"1.1/2"""
+"11/2"" x";"1.1/2"""
+"1/2"" x";"1/2"""
+"2"" x";"2"""
+"1"" x";"1"""
+"1/4"" x";"1/4"""
+ 6 x;"6"""
+1.1/4 x;"1.1/4"""
+ 1 1/4 x;"1.1/4"""
+11/4 x;"1.1/4"""
+3/4 x;"3/4"""
+4 x;"4"""
+3 x;"3"""
+2.1/2 x;"2.1/2"""
+2 1/2 x;"2.1/2"""
+21/2 x;"2.1/2"""
+1.1/2 x;"1.1/2"""
+1 1/2 x;"1.1/2"""
+11/2 x;"1.1/2"""
+1/2 x;"1/2"""
+2 x;"2"""
+1 x;"1"""
+1/4 x;"1/2"""
+200 x 100;200 x 100
+250 x 100;250 x 100
+300 x 100;300 x 100
+400 x 100;400 x 100
+500 x 100;500 x 100
+600 x 100;600 x 100
+700 x 100;700 x 100
+750 x 100;750 x 100
+800 x 100;800 x 100
+900 x 100;900 x 100
+1000 x 100;1000 x 100
+1200 x 100;1200 x 100
+1250 x 100;1250 x 100
+1500 x 100;1500 x 100
+50 X 50;50 x 50
+100 X 50;100 x 50
+200 X50;200 x 50
+300 X 50;300 x 50
+400 X 50;400 x 50
+500 X 50;500 x 50
+100 X 100;100 x 100
+150 X 100;150 x 100
+100 X 125;100 x 125
+125 X 125;125 x 125
+150 X 125;150 x 125
+200 X 125;200 x 125
+300 X 125;300 x 125
+400 X 125;400 x 125
+200x100;200 x 100
+250x100;250 x 100
+300x100;300 x 100
+400x100;400 x 100
+500x100;500 x 100
+600x100;600 x 100
+700x100;700 x 100
+750x100;750 x 100
+800x100;800 x 100
+900 x 100;900 x 100
+1000x100;1000 x 100
+1200x100;1200 x 100
+1250x100;1250 x 100
+1500x100;1500 x 100
+50X50;50 x 50
+100X50;100 x 50
+200X50;200 x 50
+300X50;300 x 50
+400X50;400 x 50
+500X50;500 x 50
+100X100;100 x 100
+150X100;150 x 100
+100X125;100 x 125
+125X125;125 x 125
+150X125;150 x 125
+200X125;200 x 125
+300X125;300 x 125
+400X125;400 x 125
+38 X 38;38 x 38
+19 X 38;19 x 38
+38 X 76;38 x 76
+19 X 76;19 x76
+38x38;38 x 38
+19x38;19 x 38
+38x76;38 x 76
+19x76;19 x76
+38mmx38;38 x 38
+19mmx38;19 x 38
+38mmx76;38 x 76
+19mmx76;19 x76
+38x38mm;38 x 38
+19x38mm;19 x 38
+38x76mm;38 x 76
+19x76mm;19 x76
+38x38 mm;38 x 38
+19x38 mm;19 x 38
+38x76 mm;38 x 76
+19x76 mm;19 x76
+38 mmx38;38 x 38
+19 mmx38;19 x 38
+38 mmx76;38 x 76
+19 mmx76;19 x76
+1.5 mm²;1,5
+2.5 mm²;2,5
+4 mm²;4
+6 mm²;6
+10 mm²;10
+16 mm²;16
+25 mm²;25
+35 mm²;35
+50 mm²;50
+70 mm²;70
+95 mm²;95
+120 mm²;120
+150 mm²;150
+185 mm²;185
+240 mm²;240
+300 mm²;300
+400 mm²;400
+500 mm²;500
+1,5 mm²;1,5
+2,5 mm²;2,5
+1 mm²;1
+1,0 mm²;1
+1.0 mm²;1
+1.5 mm2;1,5
+2.5 mm2;2,5
+1,5 mm2;1,5
+2,5 mm2;2,5
+4 mm2;4
+6 mm2;6
+10 mm2;10
+16 mm2;16
+25 mm2;25
+35 mm2;35
+50 mm2;50
+70 mm2;70
+95 mm2;95
+120 mm2;120
+150 mm2;150
+185 mm2;185
+240 mm2;240
+300 mm2;300
+400 mm2;400
+500 mm2;500
+Largura da Peça: 100 mm;100 x 100
+Largura da Peça: 200 mm;200 x 100
+Largura da Peça: 300 mm;300 x 100
+Largura da Peça: 400 mm;400 x 100
+Largura da Peça: 500 mm;500 x 100
+Largura da Peça: 600 mm;600 x 100
+Largura da Peça: 800 mm;800 x 100
+Largura da Peça: 1000 mm;1000 x 100
+Largura da peça: 100 mm Altura da aba: 100 mm;100 x 100
+Largura = 100mm;200 x 100
+Largura = 200mm;300 x 100
+Largura = 300mm;400 x 100
+Largura = 400mm;500 x 100
+Largura = 500mm;600 x 100
+Largura = 600mm;800 x 100
+Largura = 800mm;1000 x 100
+Largura 100Mm, Altura Da Aba=100Mm;100 x 100
+Largura 200Mm, Altura Da Aba=100Mm;200 x 100
+Largura 300Mm, Altura Da Aba=100Mm;300 x 100
+Largura 400Mm, Altura Da Aba=100Mm;400 x 100
+Largura 500Mm, Altura Da Aba=100Mm;500 x 100
+Largura 600Mm, Altura Da Aba=100Mm;600 x 100
+Largura 800Mm, Altura Da Aba=100Mm;800 x 100
+Largura 1000Mm, Altura Da Aba=100Mm;1000 x 100
+Largura 100Mm, Altura Da Aba=50Mm;100 x 50
+Largura 200Mm, Altura Da Aba=50Mm;200 x 50
+Largura 300Mm, Altura Da Aba=50Mm;300 x 50
+Largura 400Mm, Altura Da Aba=50Mm;400 x 50
+300X200Mmx100Mm;300 x 100
+400X100Mmx100Mm;400 x 100
+200X100Mmx100Mm;200 x 100
+300mm x 200mm x 100mm;300 x 100
+600mm x 200mm x 100mm;600 x 100
+200mm x 100mm PARA 100mm x 100mm;200 x 100
+600mm x 300mm x 100mm;600 x 100
+300 X 200 X ABA 100mm;300 x 100
+200 X 100 X ABA 100mm;200 x 100
+LARGURA 300 x ABA 100mm PARA LARGURA 200 x ABA 100mm;300 x 100
+LARGURA 200 X 100 X ABA 100mm;200 x 100
+200x100x100mm;200 x 100
+300mm x 200mm x 100mm ;300 x 100
+100mm de 200mm para 100mm;200 x 100
+100mm de 400mm para 300mm;400 x 100
+400 x 200;400 x 100
+600 x 200;600 x 100
+600 x 400;600 x 100
+altura da aba 100 mm. 800 x 500;800 x 100
+altura da aba 100 mm. 500 x 300;500 x 100
+Larg. 400 x larg. 200mm;400 x 100
+LARGURA 300mm para 100mm;300 x 100
+LARGURA 400mm para 200mm;400 x 100
+ LARGURA 500mm para 300mm;500 x 100
+ largura 400x300mm;400 x 100
+Largura 800 x 400mm;800 x 100
+Largura 800 x 600mm;800 x 100
+300x200x100mm;300 x 100
+400x300x100mm;400 x 100
+500 x 300;500 x 100
+800 x 400;800 x 100
+800 x 600;800 x 100
+200mm x 100mm e altura da aba 100mm;200 x 100
+300mm x 200mm e altura da aba 100mm;300 x 100
+600mm x 200mm e altura da aba 100mm;600 x 100
+600mm x 400mm e altura da aba 100mm ;600 x 100
+600mm x 200mm e altura da aba 100mm;600 x 100
+1.5mm²;1,5
+2.5mm²;2,5
+4mm²;4
+6mm²;6
+10mm²;10
+16mm²;16
+25mm²;25
+35mm²;35
+50mm²;50
+70mm²;70
+95mm²;95
+120mm²;120
+150mm²;150
+185mm²;185
+240mm²;240
+300mm²;300
+400mm²;400
+500mm²;500
+1,5mm²;1,5
+2,5mm²;2,5
+1mm²;1
+1,0mm²;1
+1.0mm²;1
+1.5mm2;1,5
+2.5mm2;2,5
+1,5mm2;1,5
+2,5mm2;2,5
+4mm2;4
+6mm2;6
+10mm2;10
+16mm2;16
+25mm2;25
+35mm2;35
+50mm2;50
+70mm2;70
+95mm2;95
+120mm2;120
+150mm2;150
+185mm2;185
+240mm2;240
+300mm2;300
+400mm2;400
+500mm2;500
+ALTURA 50MM, LARGURA 100MM;100 x 50
+"L=50; A=50mm.";50 x 50
+ABA DE 50mm, LARGURA 100mm;100 x 50
+ABA DE 50mm, LARGURA 200mm;200 x 50
+ABA DE 50mm, LARGURA 300mm;200 x 50
+ABA DE 50mm, LARGURA 400mm;200 x 50
+Largura da peça: 100 mm Altura da aba: 100 mm;100 x 100
+Largura da peça: 200 mm Altura da aba: 100 mm;200 x 100
+Largura da peça: 300 mm Altura da aba: 100 mm;300 x 100
+Largura da peça: 400 mm Altura da aba: 100 mm;400 x 100
+Largura da peça: 500 mm Altura da aba: 100 mm;500 x 100
+Largura da peça: 600 mm Altura da aba: 100 mm;600 x 100
+Largura da peça: 800 mm Altura da aba: 100 mm;800 x 100
+Largura da peça: 1000 mm Altura da aba: 100 mm;1000 x 100
+Largura da peça: 1200 mm Altura da aba: 100 mm;1200 x 100
+LARGURA 100 x ABA 100mm;100 x 100
+LARGURA 200 x ABA 100mm;200 x 100
+LARGURA 300 x ABA 100mm;300 x 100
+LARGURA 400 x ABA 100mm;400 x 100
+LARGURA 500 x ABA 100mm;500 x 100
+LARGURA 600 x ABA 100mm;600 x 100
+LARGURA 800 x ABA 100mm;800 x 100
+LARGURA 1000 x ABA 100mm;1000 x 100
+LARGURA 1200 x ABA 100mm;1200 x 100
+Largura 100mm - Aba 100mm;100 x 100
+Largura 200mm - Aba 100mm;200 x 100
+Largura 300mm - Aba 100mm;300 x 100
+Largura 400mm - Aba 100mm;400 x 100
+Largura 500mm - Aba 100mm;500 x 100
+Largura 600mm - Aba 100mm;600 x 100
+Largura 800mm - Aba 100mm;800 x 100
+Largura 1000mm - Aba 100mm;1000 x 100
+Largura 2100mm - Aba 100mm;1200 x 100
+ABA 100mm LARGURA 150mm;150 x 100
+ABA 100mm LARGURA 100mm ;100 x 100
+ABA 100mm LARGURA 200mm ;200 x 100
+ABA 100mm LARGURA 300mm ;300 x 100
+ABA 100mm LARGURA 400mm ;400 x 100
+ABA 100mm LARGURA 500mm ;500 x 100
+ABA 100mm LARGURA 600mm ;600 x 100
+ABA 100mm LARGURA 800mm ;800 x 100
+ABA 100mm LARGURA 1000mm ;1000 x 100
+ABA 100mm LARGURA 1200mm ;1200 x 100
+50 x 100;100 x 50
+A1:100mm      A2:100mm - B:100mm;100 x 100
+A1:200mm      A2:200mm - B:100mm;200 x 100
+A1:300mm      A2:300mm - B:100mm;300 x 100
+A1:400mm      A2:400mm - B:100mm;400 x 100
+A1:500mm      A2:500mm - B:100mm;500 x 100
+A1:600mm      A2:600mm - B:100mm;600 x 100
+A1:800mm      A2:800mm - B:100mm;800 x 100
+A1:1000mm      A2:1000mm - B:100mm;1000 x 100
+A1:1200mm      A2:1200mm - B:100mm;1200 x 100
+A:100mm         B:100mm;100 x 100
+A:200mm         B:100mm;200 x 100
+A:300mm         B:100mm;300 x 100
+A:400mm         B:100mm;400 x 100
+A:500mm         B:100mm;500 x 100
+A:600mm         B:100mm;600 x 100
+A:800mm         B:100mm;800 x 100
+A:1000mm         B:100mm;1000 x 100
+A:1200mm         B:100mm;1200 x 100
+LARGURA 100MM  ALTURA 100MM;100 x 100
+LARGURA 200MM  ALTURA 100MM;200 x 100
+LARGURA 300MM  ALTURA 100MM;300 x 100
+LARGURA 400MM  ALTURA 100MM;400 x 100
+LARGURA 500MM  ALTURA 100MM;500 x 100
+LARGURA 600MM  ALTURA 100MM;600 x 100
+LARGURA 800MM  ALTURA 100MM;800 x 100
+LARGURA 1000MM  ALTURA 100MM;1000 x 100
+LARGURA 1200MM  ALTURA 100MM;1200 x 100
+"L=100; A=100mm";100 x 100
+"L=200; A=100mm";200 x 100
+"L=300; A=100mm";300 x 100
+"L=400; A=100mm";400 x 100
+"L=500; A=100mm";500 x 100
+"L=600; A=100mm";600 x 100
+"L=800; A=100mm";800 x 100
+"L=1000; A=100mm";1000 x 100
+"L=1200; A=100mm";1200 x 100
+ largura 100mm;100 x 100
+ largura 200mm;200 x 100
+ largura 300mm;300 x 100
+ largura 400mm;400 x 100
+ largura 500mm;500 x 100
+ largura 600mm;600 x 100
+ largura 800mm;800 x 100
+ largura 1000mm;1000 x 100
+ largura 1200mm;1200 x 100
+ABA DE 50mm, LARGURA 100mm,;100 x 50
+ABA DE 50mm, LARGURA 200mm,;200 x 50
+ABA DE 50mm, LARGURA 300mm,;300 x 50
+ABA DE 50mm, LARGURA 400mm,;400 x 50
+ ABA 50mm, LARGURA 100mm;100 x 50
+ ABA 50mm, LARGURA 200mm;200 x 50
+ ABA 50mm, LARGURA 300mm;300 x 50
+ ABA 50mm, LARGURA 400mm;400 x 50
+LARG. 100mm, ALT. DE ABA 50mm;100 x 50
+LARG. 200mm, ALT. DE ABA 50mm;200 x 50
+LARG. 300mm, ALT. DE ABA 50mm;300 x 50
+LARG. 400mm, ALT. DE ABA 50mm;400 x 50
+Largura de 100mm e altura da aba 100mm;100 x 100
+Largura de 200mm e altura da aba 100mm;200 x 100
+Largura de 300mm e altura da aba 100mm;300 x 100
+Largura de 400mm e altura da aba 100mm;400 x 100
+Largura de 500mm e altura da aba 100mm;500 x 100
+Largura de 600mm e altura da aba 100mm;600 x 100
+Largura de 800mm e altura da aba 100mm;800 x 100
+Largura de 1000mm e altura da aba 100mm;1000 x 100
+Largura de 1200mm e altura da aba 100mm;1200 x 100
+LARGURA 150 x ABA 100mm;150 x 100
+ABA 100mm LARGURA 150mm;150 x 100
+A:150mm    B:100mm;150 x 100
+A1:150mm      A1:150mm - B:100mm;150 x 100
+400x200x100mm;400 x 100
+LARGURA 100 MM E ALTURA DA ABA 100 MM;100 x 100
+LARGURA 200 MM E ALTURA DA ABA 100 MM;200 x 100
+LARGURA 300 MM E ALTURA DA ABA 100 MM;300 x 100
+LARGURA 400 MM E ALTURA DA ABA 100 MM;400 x 100
+LARGURA 500 MM E ALTURA DA ABA 100 MM;500 x 100
+LARGURA 600 MM E ALTURA DA ABA 100 MM;600 x 100
+LARGURA 800 MM E ALTURA DA ABA 100 MM;800 x 100
+LARGURA 1000 MM E ALTURA DA ABA 100 MM;1000 x 100
+LARGURA 1200 MM E ALTURA DA ABA 100 MM;1200 x 100
+300x200x100;300 x 100
+LARG. 200mm, ALT. DE ABA 50mm;
+LARG. 200mm, ALT. DE ABA 50mm;
+LARG. 200mm, ALT. DE ABA 50mm;
+LARG. 200mm, ALT. DE ABA 50mm;
+G1,5;1,5
+G2,5;2,5
+G4;4
+G6;6
+G10;10
+G16;16
+G25;25
+G35;35
+G50;50
+G70;70
+G95;95
+G120;120
+G150;150
+G185;185
+G240;240
+G300;300
+G400;400
+G500;500
+4,0mm²;4
+6,0mm²;6
+10,0mm²;10
+16,0mm²;16
+25,0mm²;25
+35,0mm²;35
+50,0mm²;50
+70,0mm²;70
+95,0mm²;95
+120,0mm²;120
+150,0mm²;150
+185,0mm²;185
+240,0mm²;240
+300,0mm²;300
+400,0mm²;400
+500,0mm²;500
+4,0 mm²;4
+6,0 mm²;6
+10,0 mm²;10
+16,0 mm²;16
+25,0 mm²;25
+35,0 mm²;35
+50,0 mm²;50
+70,0 mm²;70
+95,0 mm²;95
+120,0 mm²;120
+150,0 mm²;150
+185,0 mm²;185
+240,0 mm²;240
+300,0 mm²;300
+400,0 mm²;400
+500,0 mm²;500
+4.0mm²;4
+6.0mm²;6
+10.0mm²;10
+16.0mm²;16
+25.0mm²;25
+35.0mm²;35
+50.0mm²;50
+70.0mm²;70
+95.0mm²;95
+120.0mm²;120
+150.0mm²;150
+185.0mm²;185
+240.0mm²;240
+300.0mm²;300
+400.0mm²;400
+500.0mm²;500
+4.0 mm²;4
+6.0 mm²;6
+10.0 mm²;10
+16.0 mm²;16
+25.0 mm²;25
+35.0 mm²;35
+50.0 mm²;50
+70.0 mm²;70
+95.0 mm²;95
+120.0 mm²;120
+150.0 mm²;150
+185.0 mm²;185
+240.0 mm²;240
+300.0 mm²;300
+400.0 mm²;400
+500.0 mm²;500
+altura de 100 mm,  largura de 100 mm;100 x 100
+altura de 100 mm,  largura de 200 mm;200 x 100
+altura de 100 mm,  largura de 300 mm;300 x 100
+altura de 100 mm,  largura de 400 mm;400 x 100
+altura de 100 mm,  largura de 500 mm;500 x 100
+altura de 100 mm,  largura de 600 mm;600 x 100
+altura de 100 mm,  largura de 800 mm;800 x 100
+altura de 100 mm,  largura de 1000 mm;1000 x 100
+altura de 100 mm,  largura de 1200 mm;1200 x 100
+100L X 100;100 x 100
+200L X 100;200 x 100
+300L X 100;300 x 100
+400L X 100;400 x 100
+500L X 100;500 x 100
+600L X 100;600 x 100
+800L X 100;800 x 100
+1000L X 100;1000 x 100
+1200L X 100;1200 x 100
+50mm x 50mm;50 x 50
+100mm x 50mm;100 x 50
+200mm x 50mm;200 x 50
+300mm x 50mm;300 x 50
+400mm x 50mm;400 x 50
+100mm x 100mm;100 x 100
+200mm x 100mm;200 x 100
+300mm x 100mm;300 x 100
+400mm x 100mm;400 x 100
+500mm x 100mm;500 x 100
+600mm x 100mm;600 x 100
+800mm x 100mm;800 x 100
+1000mm x 100mm;1000 x 100
+1200mm x 100mm;1200 x 100
+"LARGURA: 100,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";100 x 100
+"LARGURA: 200,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";200 x 100
+"LARGURA: 300,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";300 x 100
+"LARGURA: 400,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";400 x 100
+"LARGURA: 500,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";500 x 100
+"LARGURA: 600,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";600 x 100
+"LARGURA: 800,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";800 x 100
+"LARGURA: 1000,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";1000 x 100
+"LARGURA: 1200,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";1200 x 100
+"LARGURA: 50,00 MM; ABA: RETA; ALTURA DA ABA: 50,00 MM";50 x 50
+"LARGURA: 100,00 MM; ABA: RETA; ALTURA DA ABA: 50,00 MM";100 x 50
+"LARGURA: 200,00 MM; ABA: RETA; ALTURA DA ABA: 50,00 MM";200 x 50
+"LARGURA: 300,00 MM; ABA: RETA; ALTURA DA ABA: 50,00 MM";300 x 50
+"LARGURA: 400,00 MM; ABA: RETA; ALTURA DA ABA: 50,00 MM";400 x 50
+100mmx100mm;100 x 100
+200mmx100mm;200 x 100
+300mmx100mm;300 x 100
+400mmx100mm;400 x 100
+500mmx100mm;500 x 100
+600mmx100mm;600 x 100
+800mmx100mm;800 x 100
+1000mmx100mm;1000 x 100
+1200mmx100mm;1200 x 100
+50mmx50mm;50 x 50
+100mmx50mm;100 x 50
+200mmx50mm;200 x 50
+300mmx50mm;300 x 50
+400mmx50mm;400 x 50
+50mm (LARG) X 50mm;50 x 50
+100mm (LARG) X 50mm;100 x 50
+200mm (LARG) X 50mm;200 x 50
+300mm (LARG) X 50mm;300 x 50
+400mm (LARG) X 50mm;400 x 50
+50mmX50mm;50 x 50
+50mmX100mm;100 x 50
+50mmX200mm;200 x 50
+50mmX300mm;300 x 50
+50mmX400mm;400 x 50
+L=100 X A=100;100 x 100
+L=200 X A=100;200 x 100
+L=300 X A=100;300 x 100
+L=400 X A=100;400 x 100
+L=500 X A=100;500 x 100
+L=600 X A=100;600 x 100
+L=800 X A=100;800 x 100
+L=1000 X A=100;1000 x 100
+L=1200 X A=100;1200 x 100
+"altura da aba: 100 mm; largura: 100 mm";100 x 100
+"altura da aba: 100 mm; largura: 200 mm";200 x 100
+"altura da aba: 100 mm; largura: 300 mm";300 x 100
+"altura da aba: 100 mm; largura: 400 mm";400 x 100
+"altura da aba: 100 mm; largura: 500 mm";500 x 100
+"altura da aba: 100 mm; largura: 600 mm";600 x 100
+"altura da aba: 100 mm; largura: 800 mm";800 x 100
+"altura da aba: 100 mm; largura: 1000 mm";1000 x 100
+"altura da aba: 100 mm; largura: 1200 mm";1200 x 100
+"LARGURA 100mm; ABA 100mm";100 x 100
+"LARGURA 200mm; ABA 100mm";200 x 100
+"LARGURA 300mm; ABA 100mm";300 x 100
+"LARGURA 400mm; ABA 100mm";400 x 100
+"LARGURA 500mm; ABA 100mm";500 x 100
+"LARGURA 600mm; ABA 100mm";600 x 100
+"LARGURA 800mm; ABA 100mm";800 x 100
+"LARGURA 1000mm; ABA 100mm";1000 x 100
+"LARGURA 1200mm; ABA 100mm";1200 x 100
+"ARGURA 800mmX400mm; ABA 100mm";800 x 100
+"LARGURA 100mmX100mm; ABA 100mm";100 x 100
+"LARGURA 200mmX200mm; ABA 100mm";200 x 100
+"LARGURA 300mmX300mm; ABA 100mm";300 x 100
+"LARGURA 400mmX400mm; ABA 100mm";400 x 100
+"LARGURA 500mmX500mm; ABA 100mm";500 x 100
+"LARGURA 600mmX600mm; ABA 100mm";600 x 100
+"LARGURA 800mmX800mm; ABA 100mm";800 x 100
+"LARGURA 1000mmX1000mm; ABA 100mm";1000 x 100
+"LARGURA 1200mmX1200mm; ABA 100mm";1200 x 100
+2.50 mm²;2,5
+2,50 mm²;2,5
+2.50 mm2;2,5
+2.50mm²;2,5
+2,50mm²;2,5
+2.50mm2;2,5
+M12;"1/2"""
+M20;"3/4"""
+M25;"1"""
+M32;"1.1/4"""
+M40;"1.1/2"""
+M50;"2"""
+M65;"2.1/2"""
+M75;"3"""
+M100;"4"""
+M150;"6"""
+50 mm/ altura 50 mm;50 x 50
+100 mm/ altura 50 mm;100 x 50
+200 mm/ altura 50 mm;200 x 50
+300 mm/ altura 50 mm;300 x 50
+400 mm/ altura 50 mm;400 x 50
+100 mm / altura 100 mm;100 x 100
+200 mm / altura 100 mm;200 x 100
+300 mm / altura 100 mm;300 x 100
+400 mm / altura 100 mm;400 x 100
+500 mm / altura 100 mm;500 x 100
+600 mm / altura 100 mm;600 x 100
+800 mm / altura 100 mm;800 x 100
+1000 mm / altura 100 mm;1000 x 100
+1200 mm / altura 100 mm;1200 x 100
+50MM X 50MM;50 x 50
+50MM X 100MM;100 x 50
+50MM X 200MM;200 x 50
+50MM X 300MM;300 x 50
+50MM X 400MM;400 x 50
+50,00 X 50,00;50 x 50
+100,00 X 50,00;100 x 50
+200,00 X 50,00;200 x 50
+300,00 X 50,00;300 x 50
+400,00 X 50,00;400 x 50
+100,00 X 100,00;100 x 100
+200,00 X 100,00;200 x 100
+300,00 X 100,00;300 x 100
+400,00 X 100,00;400 x 100
+500,00 X 100,00;500 x 100
+600,00 X 100,00;600 x 100
+800,00 X 100,00;800 x 100
+1000,00 X 100,00;1000 x 100
+1200,00 X 100,00;1200 x 100
+50mm (LARG) X 50mm;50 x 50
+200mm (LARG) X 50mm;100 x 50
+300mm (LARG) X 50mm;200 x 50
+100mm (LARG) X 50mm;300 x 50
+100mm (LARG) X 50mm;400 x 50
+100mm (LARG) X 100mm;100 x 100
+200mm (LARG) X 100mm;200 x 100
+300mm (LARG) X 100mm;300 x 100
+400mm (LARG) X 100mm;400 x 100
+500mm (LARG) X 100mm;500 x 100
+600mm (LARG) X 100mm;600 x 100
+800mm (LARG) X 100mm;800 x 100
+1000mm (LARG) X 100mm;1000 x 100
+1200mm (LARG) X 100mm;1200 x 100
+50x100;100 x 50
+50x200;200 x 50
+50x300;300 x 50
+50x400;400 x 50
+largura de 100 mm;100 x 100
+largura de 200 mm;200 x 100
+largura de 300 mm;300 x 100
+largura de 400 mm;400 x 100
+largura de 500 mm;500 x 100
+largura de 600 mm;600 x 100
+largura de 800 mm;800 x 100
+largura de 100 mm;1000 x 100
+largura de 100 mm;1200 x 100
+largura de 100 mm;100 x 100
+largura de 200 mm;200 x 100
+largura de 300 mm;300 x 100
+largura de 400 mm;400 x 100
+largura de 500 mm;500 x 100
+largura de 600 mm;600 x 100
+largura de 800 mm;800 x 100
+largura de 1000 mm;1000 x 100
+largura de 1200 mm;1200 x 100
+100mmx3000mm;100 x 100
+200mmx3000mm;200 x 100
+300mmx3000mm;300 x 100
+400mmx3000mm;400 x 100
+500mmx3000mm;500 x 100
+600mmx3000mm;600 x 100
+800mmx3000mm;800 x 100
+1000mmx3000mm;1000 x 100
+1200mmx3000mm;1200 x 100
+DIM= 100mm;100 x 100
+DIM= 200mm;200 x 100
+DIM= 300mm;300 x 100
+DIM= 400mm;400 x 100
+DIM= 500mm;500 x 100
+DIM= 600mm;600 x 100
+DIM= 800mm;800 x 100
+DIM= 1000mm;1000 x 100
+DIM= 1200mm;1200 x 100
+ABA 50mm, LARGURA 50mm;50 x 50
+38mm x 19 mm;19 x 38
+LARG. 150mm, ALT. DE ABA 100mm;150 x 100
+LARG. 100mm, ALT. DE ABA 100mm;100 x 100
+LARG. 200mm, ALT. DE ABA 100mm;200 x 100
+LARG. 300mm, ALT. DE ABA 100mm;300 x 100
+LARG. 400mm, ALT. DE ABA 100mm;400 x 100
+LARG. 500mm, ALT. DE ABA 100mm;500 x 100
+LARG. 600mm, ALT. DE ABA 100mm;600 x 100
+LARG. 800mm, ALT. DE ABA 100mm;800 x 100
+LARG. 1000mm, ALT. DE ABA 100mm;1000 x 100
+LARG. 1200mm, ALT. DE ABA 100mm;1200 x 100
+LARG. 50mm, ALT. DE ABA 50mm;50 x 50
+LARG. 100mm, ALT. DE ABA 50mm;100 x 50
+LARG. 200mm, ALT. DE ABA 50mm;200 x 50
+LARG. 300mm, ALT. DE ABA 50mm;300 x 50
+LARG.4100mm, ALT. DE ABA 50mm;400 x 50
+3/4 pol;"3/4"""
+ABA 50mm, LARGURA 50mm;50 x 50
+Larg. 150mm - Aba 100mm ;150 x 100
+Larg. 100mm - Aba 100mm ;100 x 100
+Larg. 200mm - Aba 100mm ;200 x 100
+Larg. 300mm - Aba 100mm ;300 x 100
+Larg. 400mm - Aba 100mm ;400 x 100
+Larg. 500mm - Aba 100mm ;500 x 100
+Larg. 600mm - Aba 100mm ;600 x 100
+Larg. 800mm - Aba 100mm ;800 x 100
+Larg. 1000mm - Aba 100mm ;1000 x 100
+Larg.1200mm - Aba 100mm ;1200 x 100
+Larg. 50mm - Aba 50mm ;50 x 50
+Larg. 100mm - Aba 50mm ;100 x 50
+Larg. 200mm - Aba 50mm ;200 x 50
+Larg. 300mm - Aba 50mm ;300 x 50
+Larg. 400mm - Aba 50mm ;400 x 50
+Largura=100mm;200 x 100
+Largura=200mm;300 x 100
+Largura=300mm;400 x 100
+Largura=400mm;500 x 100
+Largura=500mm;600 x 100
+Largura=600mm;800 x 100
+Largura=800mm;1000 x 100
+Largura.= 100mm;200 x 100
+Largura.= 200mm;300 x 100
+Largura.= 300mm;400 x 100
+Largura.= 400mm;500 x 100
+Largura.= 500mm;600 x 100
+Largura.= 600mm;800 x 100
+Largura.= 800mm;1000 x 100
+3C#4Mm2+1C#4;4
+3C#10Mm2+1C#10;10
+3C#6Mm2+1C#6;6
+3C#16Mm2+1C#16;16
+3x50mm2 + T#25mm2;50
+(3x120mm2) + T#120mm2;120
+3x50mm2 + T#25mm2;50
+3x70mm2 + T#35mm2;70
+3x240mm2) + T#240mm2;240
+3x35mm2 + T#16mm2 ;35
+3x70mm2 + T#35mm2;70
+ 3x95mm2 + T#50mm2;95
+3x120mm2 + T#70mm2;120
+3x120mm2 + T#50mm2;120
+(3x120mm2) + T#120mm2;120
+(3x240mm2) + 2xT#240;240
+4C x 6 mm2 + 1T x 6 mm2;6
+4C x 4 mm2 + 1T x 4 mm2;4
+4C x 16 mm2 + 1T x 16 mm2;16
+4C x 10 mm2 + 1T x 10 mm2;10
+3 X150  mm² + 1 T x  95 mm²;150
+3x#240mm2+T # 120mm2;240
+3 X240  mm² + 1 T x 120 mm²;240
+3 X150 mm² + 1 T x 120 mm²;150
+3 X150 mm² + 1 T x 95 mm²;150
+3x#16mm2+T # 16mm2;16
+3 X70  mm² + 1 T x 35 mm²;70
+3 X70 mm² + 1 T X35 mm²;70
+3 X120 mm² + 1 T 70 mm²;120
+3x#16mm2+T # 16mm2;16
+3x#95mm2+T # 50mm2 ;95
+3 X 35  mm² + 1 T x 16 mm²;35
+3F+1T#4mm²;4
+3F+1T#35mm²;35
+3F+1T#2,5mm²;2,5
+3F+1T#6mm²;6
+3F+1T#25mm²;25
+3 x 16 mm2 + 16 mm2;16
+3 x 25 mm2 + 25 mm2;25
+3 x 35 mm2 + 35 mm2;35
+1 x 70 mm2 + 35 mm2;70
+1 x 120 mm2 + 70 mm2;120
+1 x 150 mm2 + 95 mm2;150
+3 x 185mm² + 95mm²;185
+3 x 50mm² + 1 x 25mm²;50
+3 x 70mm² + 1 x 35mm²;70
+3x10mm² + 1x10mm²;10
+3x6,0mm² + 1x6,0mm²;6
+3x2,5mm² + 1x2,5mm²;2,5
+3x4,0mm² + 1x4,0mm²;4
+3 X 10 mm² +10mm2;10
+3 X 2,5 mm² +2,5mm2;2,5
+3 X 4,0 mm² + 4mm2;4
+3 X 6 mm² +6mm2;6
+3 X 25,0 mm² +16,0mm2;25
+3 X 35,0 mm² +16,0mm2 ;35
+3 X 6,0 mm² + 6,0mm2 ;6
+3 X 70,0 mm² + 35,0mm2;70
+2 X 10,0 mm² +10,0mm2 ;10
+2 X 16,0 mm² +16,0mm2;16
+2 X 2,5 mm² +2,5mm2;2,5
+2 X 35,0 mm² +16,0mm2;35
+2 X 35,0 mm² +16,0mm2;35
+2 X 6,0 mm² +6,0mm2;6
+2 X 70,0 mm² +35,0mm2;70
+3 X 10,0 mm² +10,0mm2;10
+3 X 150,0 mm² +70,0mm2;150
+3 X 16,0 mm² + 16,0mm2;16
+3 x 2,5 + 2,5mm2;2,5
+3 x 25 + 16mm2;25
+3#95MM² + #50MM²;95
+3#16MM² + #16MM²;16
+3#10MM² + #10MM²;19
+3x16,0 +16,0;16
+3x2,5 +2,5;2,5
+3x6,0 +6,0;6
+3/C#120mm²+70;120
+3/C#150mm²+95;150
+3/C#185mm²+95;185
+3/C#240mm²+120;240
+3/C#50mm²+25;50
+3/C#6mm²+6;6
+3/C#70mm²+35;70
+3/C#95mm²+50;95
+(3x#16+16mm²;16
+3x#2,5+2,5mm²;2,5
+3x#25 + 16mm²;25
+3x#4,0 + 4,0mm²;4
+3x#50 + 25mm²;50
+3x#6,0 + 6,0mm²;6
+3x16+16mm²;16
+3x2,5+2,5mm²;2,5
+3x25+16mm²;25
+3x4,0+4,0mm²;4
+3x50+25mm²;50
+3x6,0+6,0mm²;6
+3C+E/0016;16
+3C+E/002.5;2,5
+3C+E/0025;25
+3C+E/004;4
+3C+E/006;6
+3C+E/0095;95
+3 x 6 + 6mm2;6
+3 x 120 + 70mm2;120
+3 x 120 mm² + condutor concêntrico seção 70 mm²;120
+ 3 x 4 mm² + condutor concêntrico seção 4 mm²;4
+ 3 x 70 mm² + condutor concêntrico seção 35 mm²;70
+4,0mm2;4
+6,0mm2;6
+10,0mm2;10
+16,0mm2;16
+25,0mm2;25
+35,0mm2;35
+50,0mm2;50
+70,0mm2;70
+95,0mm2;95
+120,0mm2;120
+150,0mm2;150
+185,0mm2;185
+240,0mm2;240
+300,0mm2;300
+400,0mm2;400
+500,0mm2;500
+4,0 mm2;4
+6,0 mm2;6
+10,0 mm2;10
+16,0 mm2;16
+25,0 mm2;25
+35,0 mm2;35
+50,0 mm2;50
+70,0 mm2;70
+95,0 mm2;95
+120,0 mm2;120
+150,0 mm2;150
+185,0 mm2;185
+240,0 mm2;240
+300,0 mm2;300
+400,0 mm2;400
+500,0 mm2;500
+4.0mm2;4
+6.0mm2;6
+10.0mm2;10
+16.0mm2;16
+25.0mm2;25
+35.0mm2;35
+50.0mm2;50
+70.0mm2;70
+95.0mm2;95
+120.0mm2;120
+150.0mm2;150
+185.0mm2;185
+240.0mm2;240
+300.0mm2;300
+400.0mm2;400
+500.0mm2;500
+4.0 mm2;4
+6.0 mm2;6
+10.0 mm2;10
+16.0 mm2;16
+25.0 mm2;25
+35.0 mm2;35
+50.0 mm2;50
+70.0 mm2;70
+95.0 mm2;95
+120.0 mm2;120
+150.0 mm2;150
+185.0 mm2;185
+240.0 mm2;240
+300.0 mm2;300
+400.0 mm2;400
+500.0 mm2;500
+3X25,0MM² + 16,0MM²;25
+3X35,0MM² + 16,0MM²;35
+3X150,0MM² + 95,0MM²;150
+3X185,0MM² + 95,0MM²;185
+3X240,0MM² + 120,0MM²;240
+3x6,0+6,0mm²;6
+3 x 25mm² + 16mm²;25
+(3/C #150 + 1/C #95) mm2;150
+(3/C #120 + 1/C #70) mm2;120
+(3/C #25 + 1/C #16) mm2;25
+(3/C #185 + 1/C #95) mm2;185
+(3/C #95 + 1/C #50) mm2;95
+(3/C #185 + 1/C #95) mm2;185
+(3/C #35 + 3/C #10) mm2;35
+(3/C #70 + 3/C #16);70
+M 12;"1/2"""
+M 20;"3/4"""
+M 25;"1"""
+M 32;"1.1/4"""
+M 40;"1.1/2"""
+M 50;"2"""
+M 65;"2.1/2"""
+M 75;"3"""
+M 100;"4"""
+M 150;"6"""
+1000x500x100;1000 x 100
+0,5 pol;"1/2"""
+0,75 pol;"3/4"""
+1,5 pol;"1.1/2"""
+1,25 pol;"1.1/4"""
+0,5pol;"1/2"""
+0,75pol;"3/4"""
+1,5pol;"1.1/2"""
+1,25pol;"1.1/4"""
+0.5 pol;"1/2"""
+0.75 pol;"3/4"""
+1.5 pol;"1.1/2"""
+1.25 pol;"1.1/4"""
+0.5pol;"1/2"""
+0.75pol;"3/4"""
+1.5pol;"1.1/2"""
+1.25pol;"1.1/4"""
+200 mm;200 x 100
+300 mm;300 x 100
+400 mm;400 x 100
+500 mm;500 x 100
+600 mm;600 x 100
+800 mm;800 x 100
+1000 x 100;1000 x 100
+200mm;200 x 100
+300mm;300 x 100
+400mm;400 x 100
+500mm;500 x 100
+600mm;600 x 100
+800mm;800 x 100
+1000x100;1000 x 100
+150x100x50;150 x 50
+100x150x50;150 x 50
+300X200MM E H=100MM;300 x 100
+300X150MM E H=100MM;300 x 100
+500X300MM E H=100MM;500 x 100
+A=200MM, 300X100MM;300 x 100
+100mm x100mm;100 x 100
+"LARGURA: 100,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";100 x 100
+"LARGURA: 200,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";200 x 100
+"LARGURA: 300,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";300 x 100
+"LARGURA: 400,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";400 x 100
+"LARGURA: 500,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";500 x 100
+"LARGURA: 600,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";600 x 100
+"LARGURA: 800,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";800 x 100
+"LARGURA: 1000,00 MM; ABA: DOBRADA; ALTURA DA ABA: 100,00 MM";1000 x 100
+"LARGURA: 50,00 MM; ABA: COM; ALTURA DA ABA: 50,00 MM";50 x 50
+"LARGURA: 100,00 MM; ABA: COM; ALTURA DA ABA: 50,00 MM";100 x 50
+"LARGURA: 200,00 MM; ABA: COM; ALTURA DA ABA: 50,00 MM";200 x 50
+"LARGURA: 300,00 MM; ABA: COM; ALTURA DA ABA: 50,00 MM";300 x 50
+"LARGURA: 400,00 MM; ABA: COM; ALTURA DA ABA: 50,00 MM";400 x 50
+LARGURA DE 200 x ABA 100mm;200 x 100
+LARGURA DE 300 x ABA 100mm;300 x 100
+LARGURA DE 400 x ABA 100mm;400 x 100
+LARGURA DE 500 x ABA 100mm;500 x 100
+LARGURA DE 600 x ABA 100mm;600 x 100
+LARGURA DE 800 x ABA 100mm;800 x 100
+LARGURA DE 1000 x ABA 100mm;1000 x 100
+LARGURA DE 50 x ABA 50mm;50 x 50
+LARGURA DE 100 x ABA 50mm;100 x 50
+LARGURA DE 200 x ABA 50mm;200 x 50
+LARGURA DE 300 x ABA 50mm;300 x 50
+LARGURA DE 400 x ABA 50mm;400 x 50
+LARGURA DE 150 x ABA 100mm;150 x 100
+200(L) x100(A);200 x 100
+300(L) x100(A);300 x 100
+400(L) x100(A);400 x 100
+500(L) x100(A);500 x 100
+600(L) x100(A);600 x 100
+800(L) x100(A);800 x 100
+1000(L) x100(A);1000 x 100
+50(L) x50(A);50 x 50
+100(L) x50(A);100 x 50
+200(L) x50(A);200 x 50
+300(L) x50(A);300 x 50
+400(L) x50(A);400 x 50
+150(L) x100(A);150 x 100
+3x25+1x16mm³;25
+3x120mm²+1x70mm²;120
+3 x 120 + 70mm2;120
+3 X 1C # 25mm2 + 1C#16mm2;25
+3/C#35+1/C#16mm²;35
+6 - 35 mm2;6 - 35 mm2
+16 - 50 mm2;16 - 50 mm2
+35 - 70 mm2;35 - 70 mm2
+10 - 25 mm2;10 - 25 mm2
+25 - 70 mm2;25 - 70 mm2
+70 - 120 mm2;70 - 120 mm2
+16 - 70 mm2;16 - 70 mm2
+6 - 35 mm²;6 - 35 mm2
+16 - 50 mm²;16 - 50 mm2
+35 - 70 mm²;35 - 70 mm2
+10 - 25 mm²;10 - 25 mm2
+25 - 70 mm²;25 - 70 mm2
+70 - 120 mm²;70 - 120 mm2
+16 - 70 mm²;16 - 70 mm2
+6-35 mm2;6 - 35 mm2
+16-50 mm2;16 - 50 mm2
+35-70 mm2;35 - 70 mm2
+10-25 mm2;10 - 25 mm2
+25-70 mm2;25 - 70 mm2
+70-120 mm2;70 - 120 mm2
+16-70 mm2;16 - 70 mm2
+6-35 mm²;6 - 35 mm2
+16-50 mm²;16 - 50 mm2
+35-70 mm²;35 - 70 mm2
+10-25 mm²;10 - 25 mm2
+25-70 mm²;25 - 70 mm2
+70-120 mm²;70 - 120 mm2
+16-70 mm²;16 - 70 mm2
+10A;10A
+15A;16A
+16A;16A
+20A;20A
+32A;32A
+63A;63A
+10:00 AM;10A
+15 A;16A
+16 A ;16A
+20 A;20A
+32 A ;32A
+63 A ;63A
+2p +T;10A
+1W;Até 40W
+2W;Até 40W
+3W;Até 40W
+4W;Até 40W
+5W;Até 40W
+6W;Até 40W
+7W;Até 40W
+8W;Até 40W
+9W;Até 40W
+10W;Até 40W
+11W;Até 40W
+12W;Até 40W
+13W;Até 40W
+14W;Até 40W
+15W;Até 40W
+16W;Até 40W
+17W;Até 40W
+18W;Até 40W
+19W;Até 40W
+20W;Até 40W
+21W;Até 40W
+22W;Até 40W
+23W;Até 40W
+24W;Até 40W
+25W;Até 40W
+26W;Até 40W
+27W;Até 40W
+28W;Até 40W
+29W;Até 40W
+30W;Até 40W
+31W;Até 40W
+32W;Até 40W
+33W;Até 40W
+34W;Até 40W
+35W;Até 40W
+36W;Até 40W
+37W;Até 40W
+38W;Até 40W
+39W;Até 40W
+40W;Até 40W
+41W;Entre 40W e 80W
+42W;Entre 40W e 80W
+43W;Entre 40W e 80W
+44W;Entre 40W e 80W
+45W;Entre 40W e 80W
+46W;Entre 40W e 80W
+47W;Entre 40W e 80W
+48W;Entre 40W e 80W
+49W;Entre 40W e 80W
+50W;Entre 40W e 80W
+51W;Entre 40W e 80W
+52W;Entre 40W e 80W
+53W;Entre 40W e 80W
+54W;Entre 40W e 80W
+55W;Entre 40W e 80W
+56W;Entre 40W e 80W
+57W;Entre 40W e 80W
+58W;Entre 40W e 80W
+59W;Entre 40W e 80W
+60W;Entre 40W e 80W
+61W;Entre 40W e 80W
+62W;Entre 40W e 80W
+63W;Entre 40W e 80W
+64W;Entre 40W e 80W
+65W;Entre 40W e 80W
+66W;Entre 40W e 80W
+67W;Entre 40W e 80W
+68W;Entre 40W e 80W
+69W;Entre 40W e 80W
+70W;Entre 40W e 80W
+71W;Entre 40W e 80W
+72W;Entre 40W e 80W
+73W;Entre 40W e 80W
+74W;Entre 40W e 80W
+75W;Entre 40W e 80W
+76W;Entre 40W e 80W
+77W;Entre 40W e 80W
+78W;Entre 40W e 80W
+79W;Entre 40W e 80W
+80W;Entre 40W e 80W
+81W;Entre 80W e 120W
+82W;Entre 80W e 120W
+83W;Entre 80W e 120W
+84W;Entre 80W e 120W
+85W;Entre 80W e 120W
+86W;Entre 80W e 120W
+87W;Entre 80W e 120W
+88W;Entre 80W e 120W
+89W;Entre 80W e 120W
+90W;Entre 80W e 120W
+91W;Entre 80W e 120W
+92W;Entre 80W e 120W
+93W;Entre 80W e 120W
+94W;Entre 80W e 120W
+95W;Entre 80W e 120W
+96W;Entre 80W e 120W
+97W;Entre 80W e 120W
+98W;Entre 80W e 120W
+99W;Entre 80W e 120W
+100W;Entre 80W e 120W
+101W;Entre 80W e 120W
+102W;Entre 80W e 120W
+103W;Entre 80W e 120W
+104W;Entre 80W e 120W
+105W;Entre 80W e 120W
+106W;Entre 80W e 120W
+107W;Entre 80W e 120W
+108W;Entre 80W e 120W
+109W;Entre 80W e 120W
+110W;Entre 80W e 120W
+111W;Entre 80W e 120W
+112W;Entre 80W e 120W
+113W;Entre 80W e 120W
+114W;Entre 80W e 120W
+115W;Entre 80W e 120W
+116W;Entre 80W e 120W
+117W;Entre 80W e 120W
+118W;Entre 80W e 120W
+119W;Entre 80W e 120W
+120W;Entre 80W e 120W
+121W;Entre 120W e 160W
+122W;Entre 120W e 160W
+123W;Entre 120W e 160W
+124W;Entre 120W e 160W
+125W;Entre 120W e 160W
+126W;Entre 120W e 160W
+127W;Entre 120W e 160W
+128W;Entre 120W e 160W
+129W;Entre 120W e 160W
+130W;Entre 120W e 160W
+131W;Entre 120W e 160W
+132W;Entre 120W e 160W
+133W;Entre 120W e 160W
+134W;Entre 120W e 160W
+135W;Entre 120W e 160W
+136W;Entre 120W e 160W
+137W;Entre 120W e 160W
+138W;Entre 120W e 160W
+139W;Entre 120W e 160W
+140W;Entre 120W e 160W
+141W;Entre 120W e 160W
+142W;Entre 120W e 160W
+143W;Entre 120W e 160W
+144W;Entre 120W e 160W
+145W;Entre 120W e 160W
+146W;Entre 120W e 160W
+147W;Entre 120W e 160W
+148W;Entre 120W e 160W
+149W;Entre 120W e 160W
+150W;Entre 120W e 160W
+151W;Entre 120W e 160W
+152W;Entre 120W e 160W
+153W;Entre 120W e 160W
+154W;Entre 120W e 160W
+155W;Entre 120W e 160W
+156W;Entre 120W e 160W
+157W;Entre 120W e 160W
+158W;Entre 120W e 160W
+159W;Entre 120W e 160W
+160W;Entre 120W e 160W
+1 W ;Até 40W
+2 W ;Até 40W
+3 W ;Até 40W
+4 W ;Até 40W
+5 W ;Até 40W
+6 W ;Até 40W
+7 W ;Até 40W
+8 W ;Até 40W
+9 W ;Até 40W
+10 W ;Até 40W
+11 W ;Até 40W
+12 W ;Até 40W
+13 W ;Até 40W
+14 W ;Até 40W
+15 W ;Até 40W
+16 W ;Até 40W
+17 W ;Até 40W
+18 W ;Até 40W
+19 W ;Até 40W
+20 W ;Até 40W
+21 W ;Até 40W
+22 W ;Até 40W
+23 W ;Até 40W
+24 W ;Até 40W
+25 W ;Até 40W
+26 W ;Até 40W
+27 W ;Até 40W
+28 W ;Até 40W
+29 W ;Até 40W
+30 W ;Até 40W
+31 W ;Até 40W
+32 W ;Até 40W
+33 W ;Até 40W
+34 W ;Até 40W
+35 W ;Até 40W
+36 W ;Até 40W
+37 W ;Até 40W
+38 W ;Até 40W
+39 W ;Até 40W
+40 W ;Até 40W
+41 W ;Entre 40W e 80W
+42 W ;Entre 40W e 80W
+43 W ;Entre 40W e 80W
+44 W ;Entre 40W e 80W
+45 W ;Entre 40W e 80W
+46 W ;Entre 40W e 80W
+47 W ;Entre 40W e 80W
+48 W ;Entre 40W e 80W
+49 W ;Entre 40W e 80W
+50 W ;Entre 40W e 80W
+51 W ;Entre 40W e 80W
+52 W ;Entre 40W e 80W
+53 W ;Entre 40W e 80W
+54 W ;Entre 40W e 80W
+55 W ;Entre 40W e 80W
+56 W ;Entre 40W e 80W
+57 W ;Entre 40W e 80W
+58 W ;Entre 40W e 80W
+59 W ;Entre 40W e 80W
+60 W ;Entre 40W e 80W
+61 W ;Entre 40W e 80W
+62 W ;Entre 40W e 80W
+63 W ;Entre 40W e 80W
+64 W ;Entre 40W e 80W
+65 W ;Entre 40W e 80W
+66 W ;Entre 40W e 80W
+67 W ;Entre 40W e 80W
+68 W ;Entre 40W e 80W
+69 W ;Entre 40W e 80W
+70 W ;Entre 40W e 80W
+71 W ;Entre 40W e 80W
+72 W ;Entre 40W e 80W
+73 W ;Entre 40W e 80W
+74 W ;Entre 40W e 80W
+75 W ;Entre 40W e 80W
+76 W ;Entre 40W e 80W
+77 W ;Entre 40W e 80W
+78 W ;Entre 40W e 80W
+79 W ;Entre 40W e 80W
+80 W ;Entre 40W e 80W
+81 W ;Entre 80W e 120W
+82 W ;Entre 80W e 120W
+83 W ;Entre 80W e 120W
+84 W ;Entre 80W e 120W
+85 W ;Entre 80W e 120W
+86 W ;Entre 80W e 120W
+87 W ;Entre 80W e 120W
+88 W ;Entre 80W e 120W
+89 W ;Entre 80W e 120W
+90 W ;Entre 80W e 120W
+91 W ;Entre 80W e 120W
+92 W ;Entre 80W e 120W
+93 W ;Entre 80W e 120W
+94 W ;Entre 80W e 120W
+95 W ;Entre 80W e 120W
+96 W ;Entre 80W e 120W
+97 W ;Entre 80W e 120W
+98 W ;Entre 80W e 120W
+99 W ;Entre 80W e 120W
+100 W ;Entre 80W e 120W
+101 W ;Entre 80W e 120W
+102 W ;Entre 80W e 120W
+103 W ;Entre 80W e 120W
+104 W ;Entre 80W e 120W
+105 W ;Entre 80W e 120W
+106 W ;Entre 80W e 120W
+107 W ;Entre 80W e 120W
+108 W ;Entre 80W e 120W
+109 W ;Entre 80W e 120W
+110 W ;Entre 80W e 120W
+111 W ;Entre 80W e 120W
+112 W ;Entre 80W e 120W
+113 W ;Entre 80W e 120W
+114 W ;Entre 80W e 120W
+115 W ;Entre 80W e 120W
+116 W ;Entre 80W e 120W
+117 W ;Entre 80W e 120W
+118 W ;Entre 80W e 120W
+119 W ;Entre 80W e 120W
+120 W ;Entre 80W e 120W
+121 W ;Entre 120W e 160W
+122 W ;Entre 120W e 160W
+123 W ;Entre 120W e 160W
+124 W ;Entre 120W e 160W
+125 W ;Entre 120W e 160W
+126 W ;Entre 120W e 160W
+127 W ;Entre 120W e 160W
+128 W ;Entre 120W e 160W
+129 W ;Entre 120W e 160W
+130 W ;Entre 120W e 160W
+131 W ;Entre 120W e 160W
+132 W ;Entre 120W e 160W
+133 W ;Entre 120W e 160W
+134 W ;Entre 120W e 160W
+135 W ;Entre 120W e 160W
+136 W ;Entre 120W e 160W
+137 W ;Entre 120W e 160W
+138 W ;Entre 120W e 160W
+139 W ;Entre 120W e 160W
+140 W ;Entre 120W e 160W
+141 W ;Entre 120W e 160W
+142 W ;Entre 120W e 160W
+143 W ;Entre 120W e 160W
+144 W ;Entre 120W e 160W
+145 W ;Entre 120W e 160W
+146 W ;Entre 120W e 160W
+147 W ;Entre 120W e 160W
+148 W ;Entre 120W e 160W
+149 W ;Entre 120W e 160W
+150 W ;Entre 120W e 160W
+151 W ;Entre 120W e 160W
+152 W ;Entre 120W e 160W
+153 W ;Entre 120W e 160W
+154 W ;Entre 120W e 160W
+155 W ;Entre 120W e 160W
+156 W ;Entre 120W e 160W
+157 W ;Entre 120W e 160W
+158 W ;Entre 120W e 160W
+159 W ;Entre 120W e 160W
+160 W ;Entre 120W e 160W
+Cartucho 45;N° 45
+Cartucho 65;N° 65
+Cartucho 90;N° 90
+Cartucho 115;N° 115
+Cartucho 200;N° 200
+Cartucho 250;N° 250
+Cart. 45;N° 45
+Cart. 65;N° 65
+Cart. 90;N° 90
+Cart. 115;N° 115
+Cart. 200;N° 200
+Cart. 250;N° 250
+Cartucho: 45;N° 45
+Cartucho: 65;N° 65
+Cartucho: 90;N° 90
+Cartucho: 115;N° 115
+Cartucho: 200;N° 200
+Cartucho: 250;N° 250
+N° 45;N° 45
+N° 65;N° 65
+N° 90;N° 90
+N° 115;N° 115
+N° 200;N° 200
+N° 250;N° 250
+Referência 45;N° 45
+Referência 65;N° 65
+Referência 90;N° 90
+Referência 115;N° 115
+Referência 200;N° 200
+Referência 250;N° 250
+Número 45;N° 45
+Número 65;N° 65
+Número 90;N° 90
+Número 115;N° 115
+Número 200;N° 200
+Número 250;N° 250
+Numero 45;N° 45
+Numero 65;N° 65
+Numero 90;N° 90
+Numero 115;N° 115
+Numero 200;N° 200
+Numero 250;N° 250
+Cartucho de Plástico 45;N° 45
+Cartucho de Plástico 65;N° 65
+Cartucho de Plástico 90;N° 90
+Cartucho de Plástico 115;N° 115
+Cartucho de Plástico 200;N° 200
+Cartucho de Plástico 250;N° 250
+6 a 35 mm2;6 - 35 mm2
+16 a 50 mm2;16 - 50 mm2
+35 a 70 mm2;35 - 70 mm2
+10 a 25 mm2;10 - 25 mm2
+25 a 70 mm2;25 - 70 mm2
+70 a 120 mm2;70 - 120 mm2
+16 a 70 mm2;16 - 70 mm2
+6 a 35 mm²;6 - 35 mm2
+16 a 50 mm²;16 - 50 mm2
+35 a 70 mm²;35 - 70 mm2
+10 a 25 mm²;10 - 25 mm2
+25 a 70 mm²;25 - 70 mm2
+70 a 120 mm²;70 - 120 mm2
+16 a 70 mm²;16 - 70 mm2
+6 mm2 - 35 mm2;6 - 35 mm2
+16 mm2 - 50 mm2;16 - 50 mm2
+35  mm2 - 70 mm2;35 - 70 mm2
+10 mm2 - 25 mm2;10 - 25 mm2
+25 mm2 - 70 mm2;25 - 70 mm2
+70 mm2 - 120 mm2;70 - 120 mm2
+16 mm2 - 70 mm2;16 - 70 mm2
+6 mm2 - 35 mm²;6 - 35 mm2
+16 mm2 - 50 mm²;16 - 50 mm2
+35 mm2 - 70 mm²;35 - 70 mm2
+10 mm2 - 25 mm²;10 - 25 mm2
+25 mm2 - 70 mm²;25 - 70 mm2
+70 mm2 - 120 mm²;70 - 120 mm2
+16 mm2 - 70 mm²;16 - 70 mm2
+6 mm2-35 mm2;6 - 35 mm2
+16 mm2-50 mm2;16 - 50 mm2
+35 mm2-70 mm2;35 - 70 mm2
+10 mm2-25 mm2;10 - 25 mm2
+25 mm2-70 mm2;25 - 70 mm2
+70 mm2-120 mm2;70 - 120 mm2
+16 mm2-70 mm2;16 - 70 mm2
+6 mm²-35 mm²;6 - 35 mm2
+16 mm²-50 mm²;16 - 50 mm2
+35 mm²-70 mm²;35 - 70 mm2
+10 mm²-25 mm²;10 - 25 mm2
+25 mm²-70 mm²;25 - 70 mm2
+70 mm²-120 mm²;70 - 120 mm2
+16 mm²-70 mm²;16 - 70 mm2
+6 mm² - 35 mm²;6 - 35 mm2
+16 mm² - 50 mm²;16 - 50 mm2
+35 mm² - 70 mm²;35 - 70 mm2
+10 mm² - 25 mm²;10 - 25 mm2
+25 mm² - 70 mm²;25 - 70 mm2
+70 mm² - 120 mm²;70 - 120 mm2
+16 mm² - 70 mm²;16 - 70 mm2
+Ref.: 45;N° 45
+Ref.: 65;N° 65
+Ref.: 90;N° 90
+Ref.: 115;N° 115
+Ref.: 200;N° 200
+Ref.: 250;N° 250
+ 3 X35 mm² + 1 T 16 mm²;35
+3x#70mm2+T # 35mm2;70
+2 X 50,0 mm² +25,0mm2;50
+3 X 150,0 mm² +70,0mm2 ;150
+3#25MM² + #16MM²;25
+3X50,0MM² + 25,0MM²;50
+3X70,0MM² + 35,0MM²;70
+3X95,0MM² + 50,0MM²;95
+3X120,0MM² + 70,0MM²;120
+3 x 50mm2 + 25mm2;50
+3 x 70mm2 + 35mm²;70
+3/C#50MM² + 3/C#10MM²;50
+3/C#95MM² + 3/C#25MM²;95
+3 CONDUTORES, SEÇÃO 70 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 35 mm²;70
+3 CONDUTORES, SEÇÃO 35 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 16 mm²;35
+3 CONDUTORES, SEÇÃO 120 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 70 mm²;120
+3 CONDUTORES, SEÇÃO 95 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 50 mm²;95
+3X35+25/2mm² +1X10mm²;35
+6mm²-35mm²;6 - 35 mm2
+16mm²-50mm²;16 - 50 mm2
+35mm²-70mm²;35 - 70 mm2
+10mm²-25mm²;10 - 25 mm2
+25mm²-70mm²;25 - 70 mm2
+70mm²-120mm²;70 - 120 mm2
+16mm²-70mm²;16 - 70 mm2
+6mm² - 35mm²;6 - 35 mm2
+16mm² - 50mm²;16 - 50 mm2
+35mm² - 70mm²;35 - 70 mm2
+10mm² - 25mm²;10 - 25 mm2
+25mm² - 70mm²;25 - 70 mm2
+70mm² - 120mm²;70 - 120 mm2
+16mm² - 70mm²;16 - 70 mm2
+6 - 35mm2;6 - 35 mm2
+16 - 50mm2;16 - 50 mm2
+35 - 70mm2;35 - 70 mm2
+10 - 25mm2;10 - 25 mm2
+25 - 70mm2;25 - 70 mm2
+70 - 120mm2;70 - 120 mm2
+16 - 70mm2;16 - 70 mm2
+6 - 35mm²;6 - 35 mm2
+16 - 50mm²;16 - 50 mm2
+35 - 70mm²;35 - 70 mm2
+10 - 25mm²;10 - 25 mm2
+25 - 70mm²;25 - 70 mm2
+70 - 120mm²;70 - 120 mm2
+16 - 70mm²;16 - 70 mm2
+6-35mm2;6 - 35 mm2
+16-50mm2;16 - 50 mm2
+35-70mm2;35 - 70 mm2
+10-25mm2;10 - 25 mm2
+25-70mm2;25 - 70 mm2
+70-120mm2;70 - 120 mm2
+16-70mm2;16 - 70 mm2
+6-35mm²;6 - 35 mm2
+16-50mm²;16 - 50 mm2
+35-70mm²;35 - 70 mm2
+10-25mm²;10 - 25 mm2
+25-70mm²;25 - 70 mm2
+70-120mm²;70 - 120 mm2
+16-70mm²;16 - 70 mm2
+"5/8""";"5/8"""
+"5/8 """;"5/8"""
+"dn 5/8""";"5/8"""
+dn16;"5/8"""
+dn 16;"5/8"""
+dn 16;"5/8"""
+16 mm;"5/8"""
+6 a 35 mm2;6 - 35 mm2
+16 a 50 mm2;16 - 50 mm2
+35 a 70 mm2;35 - 70 mm2
+10 a 25 mm2;10 - 25 mm2
+25 a 70 mm2;25 - 70 mm2
+70 a 120 mm2;70 - 120 mm2
+16 a 70 mm2;16 - 70 mm2
+6 a 35 mm²;6 - 35 mm2
+16 a 50 mm²;16 - 50 mm2
+35 a 70 mm²;35 - 70 mm2
+10 a 25 mm²;10 - 25 mm2
+25 a 70 mm²;25 - 70 mm2
+70 a 120 mm²;70 - 120 mm2
+16 a 70 mm²;16 - 70 mm2
+6 mm2 a 35 mm2;6 - 35 mm2
+16 mm2 a 50 mm2;16 - 50 mm2
+35  mm2 a 70 mm2;35 - 70 mm2
+10 mm2 a 25 mm2;10 - 25 mm2
+25 mm2 a 70 mm2;25 - 70 mm2
+70 mm2 a 120 mm2;70 - 120 mm2
+16 mm2 a 70 mm2;16 - 70 mm2
+6 mm2 a 35 mm²;6 - 35 mm2
+16 mm2 a 50 mm²;16 - 50 mm2
+35 mm2 a 70 mm²;35 - 70 mm2
+10 mm2 a 25 mm²;10 - 25 mm2
+25 mm2 a 70 mm²;25 - 70 mm2
+70 mm2 a 120 mm²;70 - 120 mm2
+16 mm2 a 70 mm²;16 - 70 mm2
+6 mm² a 35 mm²;6 - 35 mm2
+16 mm² a 50 mm²;16 - 50 mm2
+35 mm² a 70 mm²;35 - 70 mm2
+10 mm² a 25 mm²;10 - 25 mm2
+25 mm² a 70 mm²;25 - 70 mm2
+70 mm² a 120 mm²;70 - 120 mm2
+16 mm² a 70 mm²;16 - 70 mm2
+6mm² a 35mm²;6 - 35 mm2
+16mm² a 50mm²;16 - 50 mm2
+35mm² a 70mm²;35 - 70 mm2
+10mm² a 25mm²;10 - 25 mm2
+25mm² a 70mm²;25 - 70 mm2
+70mm² a 120mm²;70 - 120 mm2
+16mm² a 70mm²;16 - 70 mm2
+6 a 35mm2;6 - 35 mm2
+16 a 50mm2;16 - 50 mm2
+35 a 70mm2;35 - 70 mm2
+10 a 25mm2;10 - 25 mm2
+25 a 70mm2;25 - 70 mm2
+70 a 120mm2;70 - 120 mm2
+16 a 70mm2;16 - 70 mm2
+6 a 35mm²;6 - 35 mm2
+16 a 50mm²;16 - 50 mm2
+35 a 70mm²;35 - 70 mm2
+10 a 25mm²;10 - 25 mm2
+25 a 70mm²;25 - 70 mm2
+70 a 120mm²;70 - 120 mm2
+16 a 70mm²;16 - 70 mm2
+Nº 45;N° 45
+Nº 65;N° 65
+Nº 90;N° 90
+Nº 115;N° 115
+Nº 200;N° 200
+Nº 250;N° 250
+Ref. 45;N° 45
+Ref. 65;N° 65
+Ref. 90;N° 90
+Ref. 115;N° 115
+Ref. 200;N° 200
+Ref. 250;N° 250
+cartucho de plástico - 45;N° 45
+cartucho de plástico - 65;N° 65
+cartucho de plástico - 90;N° 90
+cartucho de plástico - 115;N° 115
+cartucho de plástico - 200;N° 200
+cartucho de plástico - 250;N° 250
+19mm;"3/4"""
+16;"5/8"""
+Botoeira;Não Aplicável
+2500kVA;2500kVA
+2500 kVA;2500kVA
+150 kVA;150kVA
+3MVA;3 a 5MVA
+1MVA;1 a 2MVA
+225kVA;225kVA
+500kVA;500kVA
+112,5kVA;150kVA
+10kVA;10kVA
+15kVA;15kVA
+75 kVA;75kVA
+300 kVA;300kVA
+15 kVA;15kVA
+500 kVA;500kVA
+1500 kVA;1500kVA
+2000kVA;2000kVA
+400kVA;500kVA
+150kVA;150kVA
+30kVA;30kVA
+"3/8""";"3/8"""
+"3/8""";"3/8"""
+"dn 3/8""";"3/8"""
+"diam 3/8""";"3/8"""
+"diam3/8""";"3/8"""
+"3/8""x";"3/8"""
+"3/8"" x";"3/8"""
+Gancho;Até 6m
+Mão Francesa;Até 6m
+UR12;"1/2"""
+UR 12;"1/2"""
+UR14;"1/4"""
+UR 14;"1/4"""
+UR38;"3/8"""
+UR 38;"3/8"""
+Largura: 38 mm Altura da Aba: 38 mm;38 x 38
+12 mm;"1/2"""
+diâmetro 6;"6"""
+diâmetro 1.1/4;"1.1/4"""
+diâmetro 11/4;"1.1/4"""
+diâmetro 11/4;"1.1/4"""
+diâmetro 3/4;"3/4"""
+diâmetro 4;"4"""
+diâmetro 3;"3"""
+diâmetro 2.1/2;"2.1/2"""
+diâmetro 21/2;"2.1/2"""
+diâmetro 21/2;"2.1/2"""
+"diâmetro 1.1/2""";"1.1/2"""
+diâmetro 11/2;"1.1/2"""
+diâmetro 1 1/2;"1.1/2"""
+diâmetro 1/2;"1/2"""
+diâmetro 2;"2"""
+diâmetro 1;"1"""
+diâmetro 1/4;"1/2"""
+"diâmetro 6""";"6"""
+"diâmetro 1.1/4""";"1.1/4"""
+"diâmetro 11/4""";"1.1/4"""
+"diâmetro 11/4""";"1.1/4"""
+"diâmetro 3/4""";"3/4"""
+"diâmetro 4""";"4"""
+"diâmetro 3""";"3"""
+"diâmetro 2.1/2""";"2.1/2"""
+"diâmetro 21/2""";"2.1/2"""
+"diâmetro 21/2""";"2.1/2"""
+"diâmetro 1.1/2""";"1.1/2"""
+"diâmetro 11/2""";"1.1/2"""
+"diâmetro 1 1/2""";"1.1/2"""
+"diâmetro 1/2""";"1/2"""
+"diâmetro 2""";"2"""
+"diâmetro 1""";"1"""
+"diâmetro 1/4""";"1/4"""
+"diâmetro6""";"6"""
+"diâmetro1.1/4""";"1.1/4"""
+"diâmetro1 1/4""";"1.1/4"""
+"diâmetro11/4""";"1.1/4"""
+"diâmetro3/4""";"3/4"""
+"diâmetro4""";"4"""
+"diâmetro3""";"3"""
+"diâmetro2.1/2""";"2.1/2"""
+"diâmetro2 1/2""";"2.1/2"""
+"diâmetro21/2""";"2.1/2"""
+"diâmetro1.1/2""";"1.1/2"""
+"diâmetro1 1/2""";"1.1/2"""
+"diâmetro11/2""";"1.1/2"""
+"diâmetro1/2""";"1/2"""
+"diâmetro2""";"2"""
+"diâmetro1""";"1"""
+"diâmetro1/4""";"1/4"""
+diâmetro 150;"6"""
+diâmetro 100;"4"""
+diâmetro 80;"3"""
+diâmetro 65;"2.1/2"""
+diâmetro 50;"2"""
+diâmetro 40;"1.1/2"""
+diâmetro 32;"1.1/4"""
+diâmetro 25;"1"""
+diâmetro 20;"3/4"""
+diâmetro 15;"1/2"""
+diâmetro 10;"1/2"""
+diâmetro150;"6"""
+diâmetro100;"4"""
+diâmetro80;"3"""
+diâmetro65;"2.1/2"""
+diâmetro50;"2"""
+diâmetro40;"1.1/2"""
+diâmetro32;"1.1/4"""
+diâmetro25;"1"""
+diâmetro20;"3/4"""
+diâmetro15;"1/2"""
+diâmetro10;"1/2"""
+"diâmetro 3/8""";"3/8"""
+"diâmetro3/8""";"3/8"""
+LARGURA DE 100 x ABA 100mm;100 x 100
+LARGURA DE 100 x ABA 50mm;100 x 50
+LARGURA DE 200 x ABA 50mm;200 x 50
+LARGURA DE 300 x ABA 50mm;300 x 50
+LARGURA DE 400 x ABA 50mm;400 x 50
+LARGURA DE 200 x ABA 100mm;200 x 100
+LARGURA DE 300 x ABA 100mm;300 x 100
+LARGURA DE4100 x ABA 100mm;400 x 100
+LARGURA DE 500 x ABA 100mm;500 x 100
+LARGURA DE 600 x ABA 100mm;600 x 100
+LARGURA DE 800 x ABA 100mm;800 x 100
+LARGURA DE 1000 x ABA 100mm;1000 x 100
+LARGURA 200;200 x 100
+LARGURA 300;300 x 100
+LARGURA 400;400 x 100
+LARGURA 500;500 x 100
+LARGURA 600;600 x 100
+LARGURA 800;800 x 100
+LARGURA 1000;1000 x 100
+1 mm2;1
+1,0 mm2;1
+1.0 mm2;1
+1mm2;1
+1,0mm2;1
+1.0mm2;1
+"1,1/2""";"1.1/2"""
+"1,1/4""";"1.1/4"""
+Largura de 200;200 x 100
+Largura de 300;300 x 100
+Largura de 400;400 x 100
+Largura de 500;500 x 100
+Largura de 600;600 x 100
+Largura de 800;800 x 100
+Largura de 1000;1000 x 100
+Largura de 150;150 x 100
+G1.5;1,5
+G2.5;2,5
+"1. 1/2""";"1.1/2"""
+"1. 1/4""";"1.1/4"""
+100 mm;100 x 100
+200 mm;200 x 100
+300 mm;300 x 100
+400 mm;400 x 100
+500 mm;500 x 100
+600 mm;600 x 100
+800 mm;800 x 100
+1000 mm;1000 x 100
+50 mm;50 x 50
+100mm;100 x 100
+200mm;200 x 100
+300mm;300 x 100
+400mm;400 x 100
+500mm;500 x 100
+600mm;600 x 100
+800mm;800 x 100
+1000mm;1000 x 100
+50mm;50 x 50
+largura 100 mm, comprimento 3.000 mm confeccionado chapa # 16. - 50;100 x 50
+largura 100 mm, comprimento 3.000 mm confeccionado chapa # 16. - 100;100 x 100
+1500 x 100;1500 x 100
+1500 x 3000;1500 x 100
+1,00 mm²;1
+1.00 mm²;1
+1,00 mm2;1
+1.00 mm2;1
+400 x 200;400 x 100
+600 x 200;600 x 100
+600 x 400;600 x 100
+400x200;400 x 100
+600x200;600 x 100
+600x400;600 x 100
+Seção 1,5mm;1,5
+Seção 2,5mm;2,5
+Seção 4,0mm;4
+Seção 6,0mm;6
+Seção 10,0mm;10
+Seção 16,0mm;16
+Seção 25,0mm;25
+Seção 35,0mm;35
+Seção 50,0mm;50
+Seção 70,0mm;70
+Seção 95,0mm;95
+Seção 120,0mm;120
+Seção 150,0mm;150
+Seção 185,0mm;185
+Seção 240,0mm;240
+Seção 300,0mm;300
+Seção 400,0mm;400
+Seção 500,0mm;500
+ALTURA 50MM, LARGURA 200MM;200 x 50
+ALTURA 50MM, LARGURA 300MM;300 x 50
+ALTURA 50MM, LARGURA 400MM;400 x 50
+ALTURA 100MM, LARGURA 100MM;100 x 100
+ALTURA 100MM, LARGURA 200MM;200 x 100
+ALTURA 100MM, LARGURA 300MM;300 x 100
+ALTURA 100MM, LARGURA 400MM;400 x 100
+ALTURA 100MM, LARGURA 500MM;500 x 100
+ALTURA 100MM, LARGURA 600MM;600 x 100
+ALTURA 100MM, LARGURA 800MM;800 x 100
+ALTURA 100MM, LARGURA 1000MM;1000 x 100
+38 mm x 38mm;38 x 38
+38 mm;38 x 38
+"LARGURA: 100,00 MM; ALTURA: 100,00 MM";100 x 100
+"LARGURA: 200,00 MM; ALTURA: 100,00 MM";200 x 100
+"LARGURA: 300,00 MM; ALTURA: 100,00 MM";300 x 100
+"LARGURA: 400,00 MM; ALTURA: 100,00 MM";400 x 100
+"LARGURA: 500,00 MM; ALTURA: 100,00 MM";500 x 100
+"LARGURA: 600,00 MM; ALTURA: 100,00 MM";600 x 100
+"LARGURA: 800,00 MM; ALTURA: 100,00 MM";800 x 100
+"LARGURA: 1000,00 MM; ALTURA: 100,00 MM";1000 x 100
+"LARGURA: 50,00 MM; ALTURA: 50,00 MM";50 x 50
+"LARGURA: 100,00 MM; ALTURA: 50,00 MM";100 x 50
+"LARGURA: 200,00 MM; ALTURA: 50,00 MM";200 x 50
+"LARGURA: 300,00 MM; ALTURA: 50,00 MM";300 x 50
+"LARGURA: 400,00 MM; ALTURA: 50,00 MM";400 x 50
+76 x 38;38 x 76
+200 x 50;200 x 50
+Largura da peça: 38 mm Altura da aba: 38 mm;38 x 38
+/004;4
+/006;6
+/0010;10
+/0016;16
+/0025;25
+/0035;35
+/0050;50
+/0070;70
+/0095;95
+/00120;120
+/00150;150
+/00185;185
+/00240;240
+/00300;300
+/00400;400
+/50;50
+100 x100;100 x 100
+200 x100;200 x 100
+300 x100;300 x 100
+400 x100;400 x 100
+500 x100;500 x 100
+600 x100;600 x 100
+800 x100;800 x 100
+1000 x100;1000 x 100
+500 x 300;500 x 100
+100x 100;100 x 100
+200x 100;200 x 100
+300x 100;300 x 100
+400x 100;400 x 100
+500x 100;500 x 100
+600x 100;600 x 100
+800x 100;800 x 100
+1000x 100;1000 x 100
+200x6000;200 x 100
+LARGURA 38mm, ABA 19mm;19 x 38
+LARGURA 38mm, ABA 38mm;38 x 38
+38mm x 19 mm;19 x 38
+63;"2.1/2"""
+38x 38;38 x 38
+300x 200;300 x 100
+4,00mm²;4
+6,00mm²;6
+10,00mm²;10
+16,00mm²;16
+25,00mm²;25
+35,00mm²;35
+50,00mm²;50
+70,00mm²;70
+95,00mm²;95
+120,00mm²;120
+150,00mm²;150
+185,00mm²;185
+240,00mm²;240
+300,00mm²;300
+400,00mm²;400
+500,00mm²;500
+4,00 mm²;4
+6,00 mm²;6
+10,00 mm²;10
+16,00 mm²;16
+25,00 mm²;25
+35,00 mm²;35
+50,00 mm²;50
+70,00 mm²;70
+95,00 mm²;95
+120,00 mm²;120
+150,00 mm²;150
+185,00 mm²;185
+240,00 mm²;240
+300,00 mm²;300
+400,00 mm²;400
+500,00 mm²;500
+4.00mm²;4
+6.00mm²;6
+10.00mm²;10
+16.00mm²;16
+25.00mm²;25
+35.00mm²;35
+50.00mm²;50
+70.00mm²;70
+95.00mm²;95
+120.00mm²;120
+150.00mm²;150
+185.00mm²;185
+240.00mm²;240
+300.00mm²;300
+400.00mm²;400
+500.00mm²;500
+4.00 mm²;4
+6.00 mm²;6
+10.00 mm²;10
+16.00 mm²;16
+25.00 mm²;25
+35.00 mm²;35
+50.00 mm²;50
+70.00 mm²;70
+95.00 mm²;95
+120.00 mm²;120
+150.00 mm²;150
+185.00 mm²;185
+240.00 mm²;240
+300.00 mm²;300
+400.00 mm²;400
+500.00 mm²;500
+2 x 54 W;Entre 80W e 120W
+2x28W;Entre 40W e 80W
+42,7W;Entre 40W e 80W
+1,W,;Até 40W
+2,W,;Até 40W
+3,W,;Até 40W
+4,W,;Até 40W
+5,W,;Até 40W
+6,W,;Até 40W
+7,W,;Até 40W
+8,W,;Até 40W
+9,W,;Até 40W
+10,W,;Até 40W
+11,W,;Até 40W
+12,W,;Até 40W
+13,W,;Até 40W
+14,W,;Até 40W
+15,W,;Até 40W
+16,W,;Até 40W
+17,W,;Até 40W
+18,W,;Até 40W
+19,W,;Até 40W
+20,W,;Até 40W
+21,W,;Até 40W
+22,W,;Até 40W
+23,W,;Até 40W
+24,W,;Até 40W
+25,W,;Até 40W
+26,W,;Até 40W
+27,W,;Até 40W
+28,W,;Até 40W
+29,W,;Até 40W
+30,W,;Até 40W
+31,W,;Até 40W
+32,W,;Até 40W
+33,W,;Até 40W
+34,W,;Até 40W
+35,W,;Até 40W
+36,W,;Até 40W
+37,W,;Até 40W
+38,W,;Até 40W
+39,W,;Até 40W
+40,W,;Até 40W
+41,W,;Entre 40W e 80W
+42,W,;Entre 40W e 80W
+43,W,;Entre 40W e 80W
+44,W,;Entre 40W e 80W
+45,W,;Entre 40W e 80W
+46,W,;Entre 40W e 80W
+47,W,;Entre 40W e 80W
+48,W,;Entre 40W e 80W
+49,W,;Entre 40W e 80W
+50,W,;Entre 40W e 80W
+51,W,;Entre 40W e 80W
+52,W,;Entre 40W e 80W
+53,W,;Entre 40W e 80W
+54,W,;Entre 40W e 80W
+55,W,;Entre 40W e 80W
+56,W,;Entre 40W e 80W
+57,W,;Entre 40W e 80W
+58,W,;Entre 40W e 80W
+59,W,;Entre 40W e 80W
+60,W,;Entre 40W e 80W
+61,W,;Entre 40W e 80W
+62,W,;Entre 40W e 80W
+63,W,;Entre 40W e 80W
+64,W,;Entre 40W e 80W
+65,W,;Entre 40W e 80W
+66,W,;Entre 40W e 80W
+67,W,;Entre 40W e 80W
+68,W,;Entre 40W e 80W
+69,W,;Entre 40W e 80W
+70,W,;Entre 40W e 80W
+71,W,;Entre 40W e 80W
+72,W,;Entre 40W e 80W
+73,W,;Entre 40W e 80W
+74,W,;Entre 40W e 80W
+75,W,;Entre 40W e 80W
+76,W,;Entre 40W e 80W
+77,W,;Entre 40W e 80W
+78,W,;Entre 40W e 80W
+79,W,;Entre 40W e 80W
+80,W,;Entre 40W e 80W
+81,W,;Entre 80W e 120W
+82,W,;Entre 80W e 120W
+83,W,;Entre 80W e 120W
+84,W,;Entre 80W e 120W
+85,W,;Entre 80W e 120W
+86,W,;Entre 80W e 120W
+87,W,;Entre 80W e 120W
+88,W,;Entre 80W e 120W
+89,W,;Entre 80W e 120W
+90,W,;Entre 80W e 120W
+91,W,;Entre 80W e 120W
+92,W,;Entre 80W e 120W
+93,W,;Entre 80W e 120W
+94,W,;Entre 80W e 120W
+95,W,;Entre 80W e 120W
+96,W,;Entre 80W e 120W
+97,W,;Entre 80W e 120W
+98,W,;Entre 80W e 120W
+99,W,;Entre 80W e 120W
+100,W,;Entre 80W e 120W
+101,W,;Entre 80W e 120W
+102,W,;Entre 80W e 120W
+103,W,;Entre 80W e 120W
+104,W,;Entre 80W e 120W
+105,W,;Entre 80W e 120W
+106,W,;Entre 80W e 120W
+107,W,;Entre 80W e 120W
+108,W,;Entre 80W e 120W
+109,W,;Entre 80W e 120W
+110,W,;Entre 80W e 120W
+111,W,;Entre 80W e 120W
+112,W,;Entre 80W e 120W
+113,W,;Entre 80W e 120W
+114,W,;Entre 80W e 120W
+115,W,;Entre 80W e 120W
+116,W,;Entre 80W e 120W
+117,W,;Entre 80W e 120W
+118,W,;Entre 80W e 120W
+119,W,;Entre 80W e 120W
+120,W,;Entre 80W e 120W
+121,W,;Entre 120W e 160W
+122,W,;Entre 120W e 160W
+123,W,;Entre 120W e 160W
+124,W,;Entre 120W e 160W
+125,W,;Entre 120W e 160W
+126,W,;Entre 120W e 160W
+127,W,;Entre 120W e 160W
+128,W,;Entre 120W e 160W
+129,W,;Entre 120W e 160W
+130,W,;Entre 120W e 160W
+131,W,;Entre 120W e 160W
+132,W,;Entre 120W e 160W
+133,W,;Entre 120W e 160W
+134,W,;Entre 120W e 160W
+135,W,;Entre 120W e 160W
+136,W,;Entre 120W e 160W
+137,W,;Entre 120W e 160W
+138,W,;Entre 120W e 160W
+139,W,;Entre 120W e 160W
+140,W,;Entre 120W e 160W
+141,W,;Entre 120W e 160W
+142,W,;Entre 120W e 160W
+143,W,;Entre 120W e 160W
+144,W,;Entre 120W e 160W
+145,W,;Entre 120W e 160W
+146,W,;Entre 120W e 160W
+147,W,;Entre 120W e 160W
+148,W,;Entre 120W e 160W
+149,W,;Entre 120W e 160W
+150,W,;Entre 120W e 160W
+151,W,;Entre 120W e 160W
+152,W,;Entre 120W e 160W
+153,W,;Entre 120W e 160W
+154,W,;Entre 120W e 160W
+155,W,;Entre 120W e 160W
+156,W,;Entre 120W e 160W
+157,W,;Entre 120W e 160W
+158,W,;Entre 120W e 160W
+159,W,;Entre 120W e 160W
+160,W,;Entre 120W e 160W
+2x55W;Entre 80W e 120W
+p/perfilado;38 x 38
+S6;S6
+S8;S8
+S10;S10
+S12;S12
+para perfilado;38 x 38
+"3/16""";"1/8"""
+200 x 3000;200 x 100
+400 x 3000;400 x 100
+38mm x 38mm;38 x 38
+25mm2 - 70m2;25 - 70 mm2
+500x300;500 x 100
+38mm x 19mm;19 x 38
+100mmx50mm;300 mm a 400 mm
+A: 150mm     B:50mm;150 x 50
+800x900x100;800 x 100
+300 x 200mm;300 x 100
+1,00mm2;1
+3x2,5;2,5
+3x4;4
+10,00mm2;10
+50,00mm2;50
+16,00mm2;16
+2p+T;10A
+Perfilado;38 x 38
+"1/4""";S6
+"3/8""";"3/8"""
+3x35;35
+500x200;500 x 100
+3x25;25
+largura 150mm, aba reta altura 50mm;150 x 50
+2,5mm;2,5
+3/C#50;50
+Ø1.1/2;"1.1/2"""
+38,00 X 38,00 mm;38 x 38
+"1,1/2 """;"1.1/2"""
+Grampo de Aterramento;25 - 70 mm2
+4 a 35 mm² ;6 - 35 mm2
+19 x 3000;"3/4"""
+Tipo 65;N° 65
+Tipo 90;N° 90
+2 x 32W;Entre 40W e 80W
+3/8 pol;"3/8"""
+3p+t;32A
+167w;Entre 120W e160W
+19 mm;"3/4"""
+3 Polos + Terra;32A
+Rede;24 AWG
+100 x 1,25;100 x 100
+50 x 1,25;100 x 50
+38 x 1,25;38 x 38
+2kVA;10kVA
+té 2,5mm²;1
+22AWG;22 AWG
+1x185;185
+10+10;10
+2,5 + 2,5;2,5
+35+16;35
+6+6;6
+70+35;70
+16+16;16
+4+4;4
+50+25;50
+95+50;95
+seção transversal: 10;10
+seção transversal: 2,5;2,5
+seção transversal: 4;4
+seção transversal: 6;6
+4 vias 0,75mm²;1,5
+4 pares 0,75mm²;1
+AWG22;22 AWG
+12mm;"1/2"""
+300mm;300 mm a 400 mm
+500mm;500 mm a 600 mm
+800mm;700 mm a 900 mm
+Suporte;300 mm a 400 mm
+10,00 mm2;10
+50,00 mm2;50
+16,00 mm2;16
+4,00 mm2;4
+2 pólos mais terra;10A
+2p + t;10A
+Ø 3/8;"3/8"""
+2 x 32 W;Entre 40W e 80W
+Ø 1/4;"1/4"""
+3 Polos+Terra;32A
+150mm, altura 50mm;150 x 50
+Suporte Luminaria;Até 6m
+three way;20A
+Caixa, perfilado;Até 6m
+Interruptor;20A
+35~70mm²;35 - 70 mm2
+diam 2;"2"""
+S7;S8
+UR-38;"3/8"""
+Septo para eletrocalha ;50 mm
+Caixa para Perfilado;Até 6m
+1;1
+Caixa para tomada;Até 6m
+12x10mm;"1/2"""
+"1/4;";"1/4"""
+8x1,25 mm;"3/8"""
+Número De Fibras: 6;6 Fibras
+Número De Fibras: 12.;12 Fibras
+18 Fibras;18 Fibras
+6 pares;12 Fibras
+1x3P;6 Fibras
+12F;12 Fibras
+4 Fibras;4 Fibras
+2 Fibras;4 Fibras
+8 Fibras;8 Fibras
+6 Vias;6 Fibras
+6FO;6 Fibras
+12 (CFOT) fibras;12 Fibras
+12 Fibras;12 Fibras
+6 Fibras;6 Fibras
+Largura da peça: 400 mm Altura da aba: 75 mm;400 x 75
+Largura da peça: 100 mm Altura da aba: 75 mm;100 x 75
+A: 75mm     B:50mm;75 x 50
+75x50;75 x 50
+A1: 150mm   A2:75mm   B1:50mm;150 x 50
+100 x 75mm;100 x 75

@@ -1,0 +1,201 @@
+﻿Termo;Descrição Padrão
+Rosc;Roscado
+Rosq;Roscado
+NPT;Roscado
+BSP;Roscado
+ RO ;Roscado
+Plana;Sem Rosca
+Lisa;Sem Rosca
+ Tampa ;Com Tampa
+C/ TMP;Com Tampa
+C\ TMP;Com Tampa
+Sem Tampa;Sem Tampa
+Abraçadeira;Sem Rosca
+Braçadeira;Sem Rosca
+Grampo;Sem Rosca
+Saída;Sem Rosca
+Eletroduto;Sem Rosca
+Cabo;Não Aplicável
+Eletrocalha;Sem Tampa
+Perfilado;Sem Tampa
+Leito;Sem Tampa
+Cobre Nú;Embutido
+Cobre Nu;Embutido
+Aterramento;Embutido
+Explosão;Roscado
+Explosivo;Roscado
+Explosiva;Roscado
+Flexível;Roscado
+PVC;Roscado
+A2f;Roscado
+ Ex ;Roscado
+Curva;Roscado
+Condulete;Sem Rosca
+Caixa de Ligação;Sem Rosca
+Caixa de Derivação;Sem Rosca
+Caixa, Derivação;Sem Rosca
+250V;220/250 V
+220V;220/250 V
+250 V;220/250 V
+220 V;220/250 V
+380V;380/440 V
+440V;380/440 V
+380 V;380/440 V
+440 V;380/440 V
+380/440;380/440 V
+380 / 440;380/440 V
+1 Furo;1 Furo
+2 Furos;2 Furos
+1 Cabo;1 Furo
+2 Cabos;2 Furos
+Estanhado;1 Furo
+127/220;127/220V
+127 / 220;127/220V
+127V ; 127/220V
+127 V;127/220V
+Pendente;Pendente
+Highbay;Pendente
+High-Bay;Pendente
+Emergência;Sobrepor
+Hermética;Pendente
+Industrial;Pendente
+Embutir;Embutido
+Embutido;Embutido
+Embutida;Embutido
+Pública;Poste
+Publica;Poste
+Suporte Articulavel;Arandela
+Luminária;Pendente
+Luminaria;Pendente
+Haste;Não Aplicável
+Conector para aterramento;Não Aplicável
+Conector;Não Aplicável
+Poste;Poste
+Mastro;Não Aplicável
+Fixar;Não Aplicável
+Ligação;Não Aplicável
+Conexão;Não Aplicável
+Fixação;Não Aplicável
+Ligação;Não Aplicável
+Terminal;Não Aplicável
+Botoeira;Não Aplicável
+Interruptor;127/220V
+Transformador;Ligação
+Seco;Resiglass
+460/220V;Ligação
+0.48/0.38-0.22kV;Ligação
+0,48-0,220 kV;Ligação
+480-220 V;Ligação
+480/220V;Ligação
+Vergalhão;Sem Rosca
+Chumbador;Roscado
+Gancho;Não Aplicável
+Bucha;Não Aplicável
+Barra Roscada;Roscado
+Mão Frabcesa;Simples
+Simples;Simples
+Braço;Poste
+Cabo Nu;Embutido
+Pead;Sem Rosca
+Haste;Até 3 metros
+Arandela;Arandela
+Leito;Leito
+480 V;380/440 V
+Projetor;Arandela
+Eletrocalha;Eletrocalha
+Perfilado;Perfilado
+Tampa;Eletrocalha
+Curva Horizontal;Sem Tampa
+Curva Vertical Interna;Sem Tampa
+Curva Vertical Externa;Sem Tampa
+“T” horizontal;Sem Tampa
+Redução;Sem Tampa
+Curva Interna;Sem Tampa
+Curva Externa;Sem Tampa
+Condutor;Não Aplicável
+Prensa Cabo;Sem Rosca
+Barra;Até 3 metros
+300mm;Simples
+400mm;Simples
+500mm;Simples
+600mm;Simples
+700mm;Dupla
+800mm;Dupla
+900mm;Dupla
+Conector Macho;Roscado
+Conector Fêmea;Roscado
+Conector Femea;Roscado
+Inox;Sem Tampa
+Saida;Sem Rosca
+Pesado;Sem Tampa
+7 Fios;Embutido
+Com TM1PA;Com Tampa
+Prensa-Cabo;Sem Rosca
+Macho Fixo;Sem Rosca
+Macho Giratório;Sem Rosca
+Fêmea Fixa;Sem Rosca
+Fêmea Giratório;Sem Rosca
+Femea Fixa;Sem Rosca
+Femea Fixo;Sem Rosca
+Femea Giratório;Sem Rosca
+FêmeaFixa;Sem Rosca
+Macho Giratorio;Sem Rosca
+Fêmea Giratorio;Sem Rosca
+Femea Giratorio;Sem Rosca
+Macho;Sem Rosca
+Macho Reusável;Sem Rosca
+Macho, Giratório;Sem Rosca
+Fêmea;Sem Rosca
+Duto Aéreo Perfurado;Sem Tampa
+Suporte Articulavel;Simples
+Tomada;220/250 V
+10A, 250;220/250 V
+10A -250V;220/250 V
+32A;380/440 V
+10A;220/250 V
+63A;380/440 V
+125V;127/220 V
+500V;380/440 V
+440-460V;380/440 V
+240V;220/250 V
+8,7/15 kV;Não Aplicável
+Dois Furos;2 Furos
+12/20 kV;Não Aplicável
+Grampo Terra;Não Aplicável
+Exotérmico;Não Aplicável
+Exotermico;Não Aplicável
+Exotérmica;Não Aplicável
+Exotermica;Não Aplicável
+Exo:ermica;Não Aplicável
+Sobrepor;Sobrepor
+Emergencia;Sobrepor
+Bloco Autônomo;Sobrepor
+Sobreposta;Sobrepor
+Articulável;Arandela
+2500 kVA;Resiglass
+19 Fios;Embutido
+Escada p/cabos;Sem Tampa
+Furo;1 Furo
+20A;220/250 V
+380 A 480;380/440 V
+480/500 V;380/440 V
+Refletor;Sobrepor
+Dupla;Duplo
+8,7/15kV;Não Aplicável
+12/20kV;Não Aplicável
+Pó de Solda;Não Aplicável
+Suporte;Simples
+Kanalex;Sem Rosca
+Suporte luminaria;Não Aplicável
+área classificada;380/440 V
+Caixa para perfilado;Não Aplicável
+Septo;Não Aplicável
+Caixa, perfilado;Não Aplicável
+Tubing;Compressão
+Caixa para tomada;Não Aplicável
+Swagelok;Swagelok
+Anilha Simples;Compressão
+Anilha Dupla;Swagelok
+Anilhamento por Dupla;Swagelok
+Agulha;Compressão
+Multipla;Compressão

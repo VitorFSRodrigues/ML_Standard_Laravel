@@ -1,0 +1,1351 @@
+﻿Termo;Descrição Padrão
+Leve;Leve
+Pesado;Pesado
+Semi Pesado;Semi Pesado
+Semi-Pesado;Semi Pesado
+Eletrocalha;Leve
+Perfilado;Leve
+Leito;Pesado
+1C;1C
+2C;2C
+3C;3C
+4C;4C
+5C;5C
+7C;7C
+9C;9C
+10C;10C
+12C;12C
+15C;15C
+19C;19C
+24C;24C
+2x;2C
+3x;3C
+4x;4C
+5x;5C
+7x;7C
+9x;9C
+10x;10C
+12x;12C
+15x;15C
+19x;19C
+24x;24C
+2 x;2C
+3 x;3C
+4 x;4C
+5 x;5C
+7 x;7C
+9 x;9C
+10 x;10C
+12 x;12C
+15 x;15C
+19 x;19C
+24 x;24C
+1 par;1 Par
+2 par;2 Par
+3 par;3 Par
+4 par;4 Par
+5 par;5 Par
+6 par;6 Par
+7 par;7 Par
+8 par;8 Par
+9 par;9 Par
+10 par;10 Par
+12 par;12 Par
+14 par;14 Par
+16 par;16 Par
+18 par;18 Par
+20 par;20 Par
+22 par;22 Par
+24 par;24 Par
+2 pares;2 Par
+3 pares;3 Par
+4 pares;4 Par
+5 pares;5 Par
+6 pares;6 Par
+7 pares;7 Par
+8 pares;8 Par
+9 pares;9 Par
+10 pares;10 Par
+12 pares;12 Par
+14 pares;14 Par
+16 pares;16 Par
+18 pares;18 Par
+20 pares;20 Par
+22 pares;22 Par
+24 pares;24 Par
+1p;1 Par
+2p;2 Par
+3p;3 Par
+4p;4 Par
+5p;5 Par
+6p;6 Par
+7p;7 Par
+8p;8 Par
+9p;9 Par
+10p;10 Par
+12p;12 Par
+14p;14 Par
+16p;16 Par
+18p;18 Par
+20p;20 Par
+22p;22 Par
+24p;24 Par
+1 trio;1 Trio
+2 trio;2 Trio
+3 trio;3 Trio
+4 trio;4 Trio
+5 trio;5 Trio
+6 trio;6 Trio
+7 trio;7 Trio
+8 trio;8 Trio
+9 trio;9 Trio
+10 trio;10 Trio
+2 trios;2 Trio
+3 trios;3 Trio
+4 trios;4 Trio
+5 trios;5 Trio
+6 trios;6 Trio
+7 trios;7 Trio
+8 trios;8 Trio
+9 trios;9 Trio
+10 trios;10 Trio
+1 t;1 Trio
+2 t;2 Trio
+3 t;3 Trio
+4 t;4 Trio
+5 t;5 Trio
+6 t;6 Trio
+7 t;7 Trio
+8 t;8 Trio
+9 t;9 Trio
+10 t;10 Trio
+1t;1 Trio
+2t;2 Trio
+3t;3 Trio
+4t;4 Trio
+5t;5 Trio
+6t;6 Trio
+7t;7 Trio
+8t;8 Trio
+9t;9 Trio
+10t;10 Trio
+Sch 40s;Sch 40s
+Sch40s;Sch 40s
+Schedule 40s;Sch 40s
+Sch. 40s;Sch 40s
+Sch.40s;Sch 40s
+Schedule 40;Sch 40
+Sch 40;Sch 40
+Sch40;Sch 40
+Sch. 40;Sch 40
+Sch.40;Sch 40
+Alumínio;Sch 40
+Aço Inox;Sch 40s
+Tempo;Tempo
+Explosão;Explosão
+Explosivo;Explosão
+Explosiva;Explosão
+TGVP;Tempo
+T.G.V.P;Tempo
+Gases;Tempo
+Condulete;Tempo
+Caixa de Ligação;Tempo
+caixa e Ligação;tempo
+Prensa Cabo;Tempo
+Flexível;Tempo
+1G;1C
+2G;2C
+3G;3C
+4G;4C
+5G;5C
+7G;7C
+9G;9C
+10G;10C
+12G;12C
+15G;15C
+19G;19C
+24G;24C
+Singelo;1C
+Tripolar;3C
+Tetrapolar;4C
+Pentapolar;5C
+Condutores: 1;1C
+Condutores: 2;2C
+Condutores: 3;3C
+Condutores: 4;4C
+Condutores: 5;5C
+Condutores: 7;7C
+Condutores: 9;9C
+Condutores: 12;12C
+Condutores: 15;15C
+Condutores: 19;19C
+Condutores: 24;24C
+2 Condutores;2C
+3 Condutores;3C
+4 Condutores;4C
+5 Condutores;5C
+7 Condutores;7C
+9 Condutores;9C
+10 Condutores;10C
+12 Condutores;12C
+15 Condutores;15C
+19 Condutores;19C
+24 Condutores;24C
+Aterramento;1C
+1/C;1C
+2/C;2C
+3/C;3C
+4/C;4C
+5/C;5C
+7/C;7C
+9/C;9C
+10/C;10C
+12/C;12C
+15/C;15C
+19/C;19C
+24/C;24C
+1/ C;1C
+2/ C;2C
+3/ C;3C
+4/ C;4C
+5/ C;5C
+7/ C;7C
+9/ C;9C
+10/ C;10C
+12/ C;12C
+15/ C;15C
+19/ C;19C
+24/ C;24C
+1 / C;1C
+2 / C;2C
+3 / C;3C
+4 / C;4C
+5 / C;5C
+7 / C;7C
+9 / C;9C
+10 / C;10C
+12 / C;12C
+15 / C;15C
+19 / C;19C
+24 / C;24C
+2 Vias;2C
+3 Vias;3C
+4 Vias;4C
+5 Vias;5C
+7 Vias;7C
+9 Vias;9C
+10 Vias;10C
+12 Vias;12C
+15 Vias;15C
+19 Vias;19C
+24 Vias;24C
+Cobre Nú;1C
+Saída Horizontal;Horizontal
+Saída Vertical;Vertical
+Saída Lateral;Horizontal
+Saída Superior;Vertical
+Horizontal;Horizontal
+Vertical;Vertical
+1:00 PM;1 Par
+2:00 PM;2 Par
+3:00 PM;3 Par
+4:00 PM;4 Par
+5:00 PM;5 Par
+6:00 PM;6 Par
+7:00 PM;7 Par
+9:00 PM;9 Par
+10:00 PM;10 Par
+11:00 PM;11 Par
+12:00 PM;12 Par
+14 p ;14 Par
+16 p ;16 Par
+18 p ;18 Par
+20 p ;20 Par
+22 p ;22 Par
+24 p ;24 Par
+1 t;1 Trio
+2 t;2 Trio
+3 t;3 Trio
+4 t;4 Trio
+5 t;5 Trio
+6 t;6 Trio
+7 t;7 Trio
+8 t;8 Trio
+9 t;9 Trio
+Unipolar;1C
+1 Veia;1C
+2 Veia;2C
+3 Veia;3C
+4 Veia;4C
+5 Veia;5C
+7 Veia;7C
+9 Veia;9C
+10 Veia;10C
+12 Veia;12C
+15 Veia;15C
+19 Veia;19C
+24 Veia;24C
+A2f;Explosão
+ Ex ;Explosão
+ EX-;Explosão
+ exd ;Explosão
+Prensa-Cabo;Tempo
+Cobre Nu;1C
+1x1.5 mm²;1C
+1x2.5 mm²;1C
+1x4 mm²;1C
+1x6 mm²;1C
+1x10 mm²;1C
+1x16 mm²;1C
+1x25 mm²;1C
+1x35 mm²;1C
+1x50 mm²;1C
+1x70 mm²;1C
+1x95 mm²;1C
+1x120 mm²;1C
+1x150 mm²;1C
+1x185 mm²;1C
+1x240 mm²;1C
+1x300 mm²;1C
+1x400 mm²;1C
+1x500 mm²;1C
+1x1,5 mm²;1C
+1x2,5 mm²;1C
+1x4 mm2;1C
+1x6 mm2;1C
+1x10 mm2;1C
+1x16 mm2;1C
+1x25 mm2;1C
+1x35 mm2;1C
+1x50 mm2;1C
+1x70 mm2;1C
+1x95 mm2;1C
+1x120 mm2;1C
+1x150 mm2;1C
+1x185 mm2;1C
+1x240 mm2;1C
+1x300 mm2;1C
+1x400 mm2;1C
+1x500 mm2;1C
+1x1.5mm²;1C
+1x2.5mm²;1C
+1x4mm²;1C
+1x6mm²;1C
+1x10mm²;1C
+1x16mm²;1C
+1x25mm²;1C
+1x35mm²;1C
+1x50mm²;1C
+1x70mm²;1C
+1x95mm²;1C
+1x120mm²;1C
+1x150mm²;1C
+1x185mm²;1C
+1x240mm²;1C
+1x300mm²;1C
+1x400mm²;1C
+1x500mm²;1C
+1x1,5mm²;1C
+1x2,5mm²;1C
+1x1.5mm²;1C
+1x2.5mm2;1C
+1x4mm2;1C
+1x6mm2;1C
+1x10mm2;1C
+1x16mm2;1C
+1x25mm2;1C
+1x35mm2;1C
+1x50mm2;1C
+1x70mm2;1C
+1x95mm2;1C
+1x120mm2;1C
+1x150mm2;1C
+1x185mm2;1C
+1x240mm2;1C
+1x300mm2;1C
+1x400mm2;1C
+1x500mm2;1C
+1x 1.5 mm²;1C
+1x 2.5 mm²;1C
+1x 4 mm²;1C
+1x 6 mm²;1C
+1x 10 mm²;1C
+1x 16 mm²;1C
+1x 25 mm²;1C
+1x 35 mm²;1C
+1x 50 mm²;1C
+1x 70 mm²;1C
+1x 95 mm²;1C
+1x 120 mm²;1C
+1x 150 mm²;1C
+1x 185 mm²;1C
+1x 240 mm²;1C
+1x 300 mm²;1C
+1x 400 mm²;1C
+1x 500 mm²;1C
+1x 1,5 mm²;1C
+1x 2,5 mm²;1C
+1x 4 mm2;1C
+1x 6 mm2;1C
+1x 10 mm2;1C
+1x 16 mm2;1C
+1x 25 mm2;1C
+1x 35 mm2;1C
+1x 50 mm2;1C
+1x 70 mm2;1C
+1x 95 mm2;1C
+1x 120 mm2;1C
+1x 150 mm2;1C
+1x 185 mm2;1C
+1x 240 mm2;1C
+1x 300 mm2;1C
+1x 400 mm2;1C
+1x 500 mm2;1C
+1x 1.5mm²;1C
+1x 2.5mm²;1C
+1x 4mm²;1C
+1x 6mm²;1C
+1x 10mm²;1C
+1x 16mm²;1C
+1x 25mm²;1C
+1x 35mm²;1C
+1x 50mm²;1C
+1x 70mm²;1C
+1x 95mm²;1C
+1x 120mm²;1C
+1x 150mm²;1C
+1x 185mm²;1C
+1x 240mm²;1C
+1x 300mm²;1C
+1x 400mm²;1C
+1x 500mm²;1C
+1x 1,5mm²;1C
+1x 2,5mm²;1C
+1x 1.5mm²;1C
+1x 2.5mm2;1C
+1x 4mm2;1C
+1x 6mm2;1C
+1x 10mm2;1C
+1x 16mm2;1C
+1x 25mm2;1C
+1x 35mm2;1C
+1x 50mm2;1C
+1x 70mm2;1C
+1x 95mm2;1C
+1x 120mm2;1C
+1x 150mm2;1C
+1x 185mm2;1C
+1x 240mm2;1C
+1x 300mm2;1C
+1x 400mm2;1C
+1x 500mm2;1C
+1 x 1.5 mm²;1C
+1 x 2.5 mm²;1C
+1 x 4 mm²;1C
+1 x 6 mm²;1C
+1 x 10 mm²;1C
+1 x 16 mm²;1C
+1 x 25 mm²;1C
+1 x 35 mm²;1C
+1 x 50 mm²;1C
+1 x 70 mm²;1C
+1 x 95 mm²;1C
+1 x 120 mm²;1C
+1 x 150 mm²;1C
+1 x 185 mm²;1C
+1 x 240 mm²;1C
+1 x 300 mm²;1C
+1 x 400 mm²;1C
+1 x 500 mm²;1C
+1 x 1,5 mm²;1C
+1 x 2,5 mm²;1C
+1 x 4 mm2;1C
+1 x 6 mm2;1C
+1 x 10 mm2;1C
+1 x 16 mm2;1C
+1 x 25 mm2;1C
+1 x 35 mm2;1C
+1 x 50 mm2;1C
+1 x 70 mm2;1C
+1 x 95 mm2;1C
+1 x 120 mm2;1C
+1 x 150 mm2;1C
+1 x 185 mm2;1C
+1 x 240 mm2;1C
+1 x 300 mm2;1C
+1 x 400 mm2;1C
+1 x 500 mm2;1C
+1 x 1.5mm²;1C
+1 x 2.5mm²;1C
+1 x 4mm²;1C
+1 x 6mm²;1C
+1 x 10mm²;1C
+1 x 16mm²;1C
+1 x 25mm²;1C
+1 x 35mm²;1C
+1 x 50mm²;1C
+1 x 70mm²;1C
+1 x 95mm²;1C
+1 x 120mm²;1C
+1 x 150mm²;1C
+1 x 185mm²;1C
+1 x 240mm²;1C
+1 x 300mm²;1C
+1 x 400mm²;1C
+1 x 500mm²;1C
+1 x 1,5mm²;1C
+1 x 2,5mm²;1C
+1 x 1.5mm²;1C
+1 x 2.5mm2;1C
+1 x 4mm2;1C
+1 x 6mm2;1C
+1 x 10mm2;1C
+1 x 16mm2;1C
+1 x 25mm2;1C
+1 x 35mm2;1C
+1 x 50mm2;1C
+1 x 70mm2;1C
+1 x 95mm2;1C
+1 x 120mm2;1C
+1 x 150mm2;1C
+1 x 185mm2;1C
+1 x 240mm2;1C
+1 x 300mm2;1C
+1 x 400mm2;1C
+1 x 500mm2;1C
+1 x 1.5 mm²;1C
+1 x 2.5 mm²;1C
+1 x 4 mm²;1C
+1 x 6 mm²;1C
+1 x 10 mm²;1C
+1 x 16 mm²;1C
+1 x 25 mm²;1C
+1 x 35 mm²;1C
+1 x 50 mm²;1C
+1 x 70 mm²;1C
+1 x 95 mm²;1C
+1 x 120 mm²;1C
+1 x 150 mm²;1C
+1 x 185 mm²;1C
+1 x 240 mm²;1C
+1 x 300 mm²;1C
+1 x 400 mm²;1C
+1 x 500 mm²;1C
+1 x 1,5 mm²;1C
+1 x 2,5 mm²;1C
+1 x 4 mm2;1C
+1 x 6 mm2;1C
+1 x 10 mm2;1C
+1 x 16 mm2;1C
+1 x 25 mm2;1C
+1 x 35 mm2;1C
+1 x 50 mm2;1C
+1 x 70 mm2;1C
+1 x 95 mm2;1C
+1 x 120 mm2;1C
+1 x 150 mm2;1C
+1 x 185 mm2;1C
+1 x 240 mm2;1C
+1 x 300 mm2;1C
+1 x 400 mm2;1C
+1 x 500 mm2;1C
+1 x 1.5mm²;1C
+1 x 2.5mm²;1C
+1 x 4mm²;1C
+1 x 6mm²;1C
+1 x 10mm²;1C
+1 x 16mm²;1C
+1 x 25mm²;1C
+1 x 35mm²;1C
+1 x 50mm²;1C
+1 x 70mm²;1C
+1 x 95mm²;1C
+1 x 120mm²;1C
+1 x 150mm²;1C
+1 x 185mm²;1C
+1 x 240mm²;1C
+1 x 300mm²;1C
+1 x 400mm²;1C
+1 x 500mm²;1C
+1 x 1,5mm²;1C
+1 x 2,5mm²;1C
+1 x 1.5mm²;1C
+1 x 2.5mm2;1C
+1 x 4mm2;1C
+1 x 6mm2;1C
+1 x 10mm2;1C
+1 x 16mm2;1C
+1 x 25mm2;1C
+1 x 35mm2;1C
+1 x 50mm2;1C
+1 x 70mm2;1C
+1 x 95mm2;1C
+1 x 120mm2;1C
+1 x 150mm2;1C
+1 x 185mm2;1C
+1 x 240mm2;1C
+1 x 300mm2;1C
+1 x 400mm2;1C
+1 x 500mm2;1C
+Número de pares, ternas ou quadras: 1;1 Par
+Número de pares, ternas ou quadras: 2;2 Par
+Número de pares, ternas ou quadras: 3;3 Par
+Número de pares, ternas ou quadras: 4;4 Par
+Número de pares, ternas ou quadras: 5;5 Par
+Número de pares, ternas ou quadras: 6;6 Par
+Número de pares, ternas ou quadras: 7;7 Par
+Número de pares, ternas ou quadras: 9;9 Par
+Número de pares, ternas ou quadras: 10;10 Par
+Número de pares, ternas ou quadras: 11;11 Par
+Número de pares, ternas ou quadras: 12;12 Par
+Número de Ternas: 1;1 Trio
+Número de Ternas: 2;2 Trio
+Número de Ternas: 3;3 Trio
+Número de Ternas: 4;4 Trio
+Número de Ternas: 5;5 Trio
+Número de Ternas: 6;6 Trio
+Número de Ternas: 7;7 Trio
+Número de Ternas: 8;8 Trio
+Número de Ternas: 9;9 Trio
+1 x 2 x 1mm²;1 Par
+2 x 2 x 1mm²;2 Par
+3 x 2 x 1mm²;3 Par
+4 x 2 x 1mm²;4 Par
+5 x 2 x 1mm²;5 Par
+6 x 2 x 1mm²;6 Par
+7 x 2 x 1mm²;7 Par
+9 x 2 x 1mm²;9 Par
+10 x 2 x 1mm²;10 Par
+11 x 2 x 1mm²;11 Par
+12 x 2 x 1mm²;12 Par
+1P 1(2x1,0mm²);1 Par
+1P 1(4x1,0mm²);2 Par
+3P (6x1,0mm²);3 Par
+4P 1(8x1,0mm²);4 Par
+5P 1(10x1,0mm²);5 Par
+6P 1(12x1,0mm²);6 Par
+7P 1(14x1,0mm²);7 Par
+9P 1(18x1,0mm²);9 Par
+10P 1(20x1,0mm²);10 Par
+11P 1(22x1,0mm²);11 Par
+12P 1(24x1,0mm²);12 Par
+1T 1(3x1,0mm²);1 Trio
+2T 1(6x1,0mm²);2 Trio
+3T 1(9x1,0mm²);3 Trio
+4T 1(12x1,0mm²);4 Trio
+5T 1(15x1,0mm²);5 Trio
+6T 1(18x1,0mm²);6 Trio
+7T 1(21x1,0mm²);7 Trio
+8T 1(24x1,0mm²);8 Trio
+9T 1(27x1,0mm²);9 Trio
+1x(2x1,0mm2;1 Par
+1x(2x(2x1,0mm2;2 Par
+1x(3x(2x1,0mm2;3 Par
+1x(4x(2x1,0mm2;4 Par
+1x(5x(2x1,0mm2;5 Par
+1x(6x(2x1,0mm2;6 Par
+1x(7x(2x1,0mm2;7 Par
+1x(9x(2x1,0mm2;9 Par
+1x(10x(2x1,0mm2;10 Par
+1x(11x(2x1,0mm2;11 Par
+1x(12x(2x1,0mm2;12 Par
+1/p;1 Par
+2/p;2 Par
+3/p;3 Par
+4/p;4 Par
+5/p;5 Par
+6/p;6 Par
+7/p;7 Par
+0/p;9 Par
+10/p;10 Par
+11/p;11 Par
+12/p;12 Par
+1/t;1 Trio
+2/t;2 Trio
+3/t;3 Trio
+4/t;4 Trio
+5/t;5 Trio
+6/t;6 Trio
+7/t;7 Trio
+8/t;8 Trio
+9/t;9 Trio
+1T(Terno);1 Trio
+2T(Terno);2 Trio
+3T(Terno);3 Trio
+4T(Terno);4 Trio
+5T(Terno);5 Trio
+6T(Terno);6 Trio
+7T(Terno);7 Trio
+8T(Terno);8 Trio
+9T(Terno);9 Trio
+ 1x1P(par);1 Par
+ 1x2P(par);2 Par
+ 1x3P(par);3 Par
+ 1x4P(par);4 Par
+ 1x5P(par);5 Par
+ 1x6P(par);6 Par
+ 1x7P(par);7 Par
+ 1x9P(par);9 Par
+ 1x10P(par);10 Par
+ 1x11P(par);11 Par
+ 1x12P(par);12 Par
+2 pares;2 Par
+3 pares;3 Par
+4 pares;4 Par
+5 pares;5 Par
+6 pares;6 Par
+7 pares;7 Par
+9 pares;9 Par
+10 pares;10 Par
+11 pares;11 Par
+12 pares;12 Par
+Lateral;Horizontal
+Saída;Horizontal
+Saída Simples;Horizontal
+Saída Final;Horizontal
+Saída Superior;Vertical
+Explosivas;Explosão
+Caixa de Derivação;Tempo
+Caixa, derivação;Tempo
+3C#4Mm2+1C#4;4C
+3C#10Mm2+1C#10;4C
+3C#6Mm2+1C#6;4C
+3C#16Mm2+1C#16;4C
+3x50mm2 + T#25mm2;4C
+(3x120mm2) + T#120mm2;4C
+3x50mm2 + T#25mm2;4C
+3x70mm2 + T#35mm2;4C
+3x240mm2) + T#240mm2;4C
+3x35mm2 + T#16mm2 ;4C
+3x70mm2 + T#35mm2;4C
+ 3x95mm2 + T#50mm2;4C
+3x120mm2 + T#70mm2;4C
+3x120mm2 + T#50mm2;4C
+(3x120mm2) + T#120mm2;4C
+(3x240mm2) + 2xT#240;5C
+4C x 6 mm2 + 1T x 6 mm2;5C
+4C x 4 mm2 + 1T x 4 mm2;5C
+4C x 16 mm2 + 1T x 16 mm2;5C
+4C x 10 mm2 + 1T x 10 mm2;5C
+3 X150  mm² + 1 T x  95 mm²;4C
+3x#240mm2+T # 120mm2;4C
+3 X240  mm² + 1 T x 120 mm²;4C
+3 X150 mm² + 1 T x 120 mm²;4C
+3 X150 mm² + 1 T x 95 mm²;4C
+3x#16mm2+T # 16mm2;4C
+3 X70  mm² + 1 T x 35 mm²;4C
+3 X70 mm² + 1 T X35 mm²;4C
+3 X120 mm² + 1 T 70 mm²;4C
+3x#16mm2+T # 16mm2;4C
+3x#95mm2+T # 50mm2 ;4C
+3 X 35  mm² + 1 T x 16 mm²;4C
+3F+1T;4C
+3 x 16 mm2 + 16 mm2;4C
+3 x 25 mm2 + 25 mm2;4C
+3 x 35 mm2 + 35 mm2;4C
+1 x 70 mm2 + 35 mm2;2C
+1 x 120 mm2 + 70 mm2;2C
+1 x 150 mm2 + 95 mm2;2C
+3 x 185mm² + 95mm²;4C
+3 x 50mm² + 1 x 25mm²;4C
+3 x 70mm² + 1 x 35mm²;4C
+3x10mm² + 1x10mm²;4C
+3x6,0mm² + 1x6,0mm²;4C
+3x2,5mm² + 1x2,5mm²;4C
+3x4,0mm² + 1x4,0mm²;4C
+3 X 10 mm² +10mm2;4C
+3 X 2,5 mm² +2,5mm2;4C
+3 X 4,0 mm² + 4mm2;4C
+3 X 6 mm² +6mm2;4C
+3 X 25,0 mm² +16,0mm2;4C
+3 X 35,0 mm² +16,0mm2 ;4C
+3 X 6,0 mm² + 6,0mm2 ;4C
+3 X 70,0 mm² + 35,0mm2;4C
+2 X 10,0 mm² +10,0mm2 ;3C
+2 X 16,0 mm² +16,0mm2;3C
+2 X 2,5 mm² +2,5mm2;3C
+2 X 35,0 mm² +16,0mm2;3C
+2 X 35,0 mm² +16,0mm2;3C
+2 X 6,0 mm² +6,0mm2;3C
+2 X 70,0 mm² +35,0mm2;3C
+3 X 10,0 mm² +10,0mm2;3C
+3 X 150,0 mm² +70,0mm2;3C
+3 X 16,0 mm² + 16,0mm2;4C
+3 x 2,5 + 2,5mm2;4C
+3 x 25 + 16mm2;4C
+3#95MM² + #50MM²;4C
+3#16MM² + #16MM²;4C
+3#10MM² + #10MM²;4C
+(3x16,0 +16,0;4C
+3x2,5 +2,5;4C
+3x6,0 +6,0;4C
+3/C#120mm²+70;4C
+3/C#150mm²+95;4C
+3/C#185mm²+95;4C
+3/C#240mm²+120;4C
+3/C#50mm²+25;4C
+3/C#6mm²+6;4C
+3/C#70mm²+35;4C
+3/C#95mm²+50;4C
+3x#16+16mm²;4C
+3x#2,5+2,5mm²;4C
+3x#25 + 16mm²;4C
+3x#4,0 + 4,0mm²;4C
+3x#50 + 25mm²;4C
+3x#6,0 + 6,0mm²;4C
+3x16+16mm²;4C
+3x2,5+2,5mm²;4C
+3x25+16mm²;4C
+3x4,0+4,0mm²;4C
+3x50+25mm²;4C
+3x6,0+6,0mm²;4C
+3C+E;4C
+3 x 6 + 6mm2;4C
+3 x 120 + 70mm2;4C
+3 x 120 mm² + condutor concêntrico seção 70 mm²;4C
+ 3 x 4 mm² + condutor concêntrico seção 4 mm²;4C
+ 3 x 70 mm² + condutor concêntrico seção 35 mm²;4C
+3X25,0MM² + 16,0MM²;4C
+3X35,0MM² + 16,0MM²;4C
+3X150,0MM² + 95,0MM²;4C
+3X185,0MM² + 95,0MM²;4C
+3X240,0MM² + 120,0MM²;4C
+3x6,0+6,0mm²;4C
+3 x 25mm² + 16mm²;4C
+(3/C #150 + 1/C #95) mm2;4C
+(3/C #120 + 1/C #70) mm2;4C
+(3/C #25 + 1/C #16) mm2;4C
+(3/C #185 + 1/C #95) mm2;4C
+(3/C #95 + 1/C #50) mm2;4C
+(3/C #185 + 1/C #95) mm2;4C
+(3/C #35 + 3/C #10) mm2;4C
+(3/C #70 + 3/C #16);4C
+Fibra;Leve
+Caixa de Ligação;Tempo
+Caixa e Ligação;Tempo
+3x25+1x16mm³;4C
+ 3 x 16 + 16mm2;4C
+ 3x6mm²+1x6mm²;4C
+3x120mm²+1x70mm²;4C
+3 x 120 + 70mm2;4C
+3 X 1C # 25mm2 + 1C#16mm2;4C
+3x16mm²+1x16mm²;4C
+3x2,5 mm2+1x2,5mm2;4C
+3x16 mm2+1x16mm2;4C
+3/C#35+1/C#16mm²;4C
+3/C#25+1/C#16mm²;4C
+3/C#10+1/C#10mm²;4C
+3/C#2,5+1/C#2,5mm²;4C
+3/C#4+1/C#4mm²;4C
+3/C#6+1/C#6mm²;4C
+3x95mm2+50mm2;4C
+3x25mm2+16mm2;4C
+3/c#4+4mm²;4C
+Compresão;Compressão
+Pressão;Pressão
+Compressões;Compressão
+Frio;A Frio
+Olhal;Olhal
+Ilhos;Ilhós
+Ilhós;Ilhós
+Split Bolt;Split Bolt
+Paralelo;Paralelo
+Simples;Simples
+Duplo;Duplo
+Split-Bolt;Split Bolt
+Exotérmica;Solda Exotérmica
+Exotermica;Solda Exotérmica
+Tomada;Tempo
+Interruptor;Tempo
+Luminária;Tempo
+Luminaria;Tempo
+Parafuso Fendido;Split Bolt
+Camada;Alta Camada
+1 Cabo;Simples
+2 Cabos;Duplo
+Um cabo;Simples
+Dois Cabos;Duplo
+Médio;Semi Pesado
+Mastro;Mastro
+Haste;Haste
+Revestimento;Alta Camada
+Revestida;Alta Camada
+Haste de Aterramento;Alta Camada
+Haste de Terra;Alta Camada
+Conector;Tempo
+Conector de Aterramento;Simples
+Conector para Aterramento;Simples
+Conector Terra;Simples
+7 Fios;1C
+4 Núcleo;4C
+3/C#16MM² + 1X1/C#16MM²;4C
+1 Cabo;1C
+2 Cabos;2C
+3 Cabos;3C
+4 Cabos;4C
+5 Cabos;5C
+7 Cabos;7C
+9 Cabos;9C
+10 Cabos;10C
+12 Cabos;12C
+15 Cabos;15C
+19 Cabos;19C
+24 Cabos;24C
+1 Condutor;1C
+1.5 mm2;1C
+2.5 mm2;1C
+1,5 mm2;1C
+2,5 mm2;1C
+4 mm2;1C
+6 mm2;1C
+10 mm2;1C
+16 mm2;1C
+25 mm2;1C
+35 mm2;1C
+50 mm2;1C
+70 mm2;1C
+95 mm2;1C
+120 mm2;1C
+150 mm2;1C
+185 mm2;1C
+240 mm2;1C
+300 mm2;1C
+400 mm2;1C
+500 mm2;1C
+2.5mm2;1C
+1,5mm2;1C
+2,5mm2;1C
+4mm2;1C
+6mm2;1C
+10mm2;1C
+16mm2;1C
+25mm2;1C
+35mm2;1C
+50mm2;1C
+70mm2;1C
+95mm2;1C
+120mm2;1C
+150mm2;1C
+185mm2;1C
+240mm2;1C
+300mm2;1C
+400mm2;1C
+500mm2;1C
+2.50 mm2;1C
+2.50mm2;1C
+4,0mm2;1C
+6,0mm2;1C
+10,0mm2;1C
+16,0mm2;1C
+25,0mm2;1C
+35,0mm2;1C
+50,0mm2;1C
+70,0mm2;1C
+95,0mm2;1C
+120,0mm2;1C
+150,0mm2;1C
+185,0mm2;1C
+240,0mm2;1C
+300,0mm2;1C
+400,0mm2;1C
+500,0mm2;1C
+4,0 mm2;1C
+6,0 mm2;1C
+10,0 mm2;1C
+16,0 mm2;1C
+25,0 mm2;1C
+35,0 mm2;1C
+50,0 mm2;1C
+70,0 mm2;1C
+95,0 mm2;1C
+120,0 mm2;1C
+150,0 mm2;1C
+185,0 mm2;1C
+240,0 mm2;1C
+300,0 mm2;1C
+400,0 mm2;1C
+500,0 mm2;1C
+4.0mm2;1C
+6.0mm2;1C
+10.0mm2;1C
+16.0mm2;1C
+25.0mm2;1C
+35.0mm2;1C
+50.0mm2;1C
+70.0mm2;1C
+95.0mm2;1C
+120.0mm2;1C
+150.0mm2;1C
+185.0mm2;1C
+240.0mm2;1C
+300.0mm2;1C
+400.0mm2;1C
+500.0mm2;1C
+4.0 mm2;1C
+6.0 mm2;1C
+10.0 mm2;1C
+16.0 mm2;1C
+25.0 mm2;1C
+35.0 mm2;1C
+50.0 mm2;1C
+70.0 mm2;1C
+95.0 mm2;1C
+120.0 mm2;1C
+150.0 mm2;1C
+185.0 mm2;1C
+240.0 mm2;1C
+300.0 mm2;1C
+400.0 mm2;1C
+500.0 mm2;1C
+1.5 mm²;1C
+2.5 mm²;1C
+4 mm²;1C
+6 mm²;1C
+10 mm²;1C
+16 mm²;1C
+25 mm²;1C
+35 mm²;1C
+50 mm²;1C
+70 mm²;1C
+95 mm²;1C
+120 mm²;1C
+150 mm²;1C
+185 mm²;1C
+240 mm²;1C
+300 mm²;1C
+400 mm²;1C
+500 mm²;1C
+1,5 mm²;1C
+2,5 mm²;1C
+1.5mm²;1C
+2.5mm²;1C
+4mm²;1C
+6mm²;1C
+10mm²;1C
+16mm²;1C
+25mm²;1C
+35mm²;1C
+50mm²;1C
+70mm²;1C
+95mm²;1C
+120mm²;1C
+150mm²;1C
+185mm²;1C
+240mm²;1C
+300mm²;1C
+400mm²;1C
+500mm²;1C
+1,5mm²;1C
+2,5mm²;1C
+4,0mm²;1C
+6,0mm²;1C
+10,0mm²;1C
+16,0mm²;1C
+25,0mm²;1C
+35,0mm²;1C
+50,0mm²;1C
+70,0mm²;1C
+95,0mm²;1C
+120,0mm²;1C
+150,0mm²;1C
+185,0mm²;1C
+240,0mm²;1C
+300,0mm²;1C
+400,0mm²;1C
+500,0mm²;1C
+4,0 mm²;1C
+6,0 mm²;1C
+10,0 mm²;1C
+16,0 mm²;1C
+25,0 mm²;1C
+35,0 mm²;1C
+50,0 mm²;1C
+70,0 mm²;1C
+95,0 mm²;1C
+120,0 mm²;1C
+150,0 mm²;1C
+185,0 mm²;1C
+240,0 mm²;1C
+300,0 mm²;1C
+400,0 mm²;1C
+500,0 mm²;1C
+4.0mm²;1C
+6.0mm²;1C
+10.0mm²;1C
+16.0mm²;1C
+25.0mm²;1C
+35.0mm²;1C
+50.0mm²;1C
+70.0mm²;1C
+95.0mm²;1C
+120.0mm²;1C
+150.0mm²;1C
+185.0mm²;1C
+240.0mm²;1C
+300.0mm²;1C
+400.0mm²;1C
+500.0mm²;1C
+4.0 mm²;1C
+6.0 mm²;1C
+10.0 mm²;1C
+16.0 mm²;1C
+25.0 mm²;1C
+35.0 mm²;1C
+50.0 mm²;1C
+70.0 mm²;1C
+95.0 mm²;1C
+120.0 mm²;1C
+150.0 mm²;1C
+185.0 mm²;1C
+240.0 mm²;1C
+300.0 mm²;1C
+400.0 mm²;1C
+500.0 mm²;1C
+Bipolar;2C
+1#;1C
+2#;2C
+3#;3C
+4#;4C
+5#;5C
+7#;7C
+9#;9C
+10#;10C
+12#;12C
+15#;15C
+19#;19C
+24#;24C
+1 Cor;1C
+2 Cor;2C
+3 Cor;3C
+4 Cor;4C
+5 Cor;5C
+6 Cor;7C
+9 Cor;9C
+10 Cor;10C
+12 Cor;12C
+15 Cor;15C
+19 Cor;19C
+24 Cor;24C
+ 3 X35 mm² + 1 T 16 mm²;4C
+3x#70mm2+T # 35mm2;4C
+3 X 10,0 mm² +10,0mm2 ;4C
+ 3C#2,5Mm2+1C#2,5;4C
+2 X 50,0 mm² +25,0mm2;3C
+3 X 150,0 mm² +70,0mm2 ;4C
+3#25MM² + #16MM²;4C
+3#4,0MM² + #4,0MM²;4C
+3/C#16 mm²+16;4C
+3X2,5MM² + 2,5MM²;4C
+3X4,0MM² + 4,0MM²;4C
+3X6,0MM² + 6,0MM²;4C
+3X16,0MM² + 16,0MM²;4C
+3X50,0MM² + 25,0MM²;4C
+3X70,0MM² + 35,0MM²;4C
+3X95,0MM² + 50,0MM²;4C
+3X120,0MM² + 70,0MM²;4C
+3 x 50mm2 + 25mm2;4C
+3 x 70mm2 + 35mm²;4C
+ 3 x 16mm2 + 16mm²;4C
+3 x 6mm2 + 6mm²;4C
+3 x 10mm2 + 10mm²;4C
+3/C#50MM² + 3/C#10MM²;4C
+3/C#95MM² + 3/C#25MM²;4C
+3 CONDUTORES, SEÇÃO 10 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 10 mm²;4C
+3 CONDUTORES, SEÇÃO 70 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 35 mm²;4C
+3 CONDUTORES, SEÇÃO 35 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 16 mm²;4C
+3 CONDUTORES, SEÇÃO 120 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 70 mm²;4C
+3 CONDUTORES, SEÇÃO 95 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 50 mm²;4C
+3 CONDUTORES, SEÇÃO 4 mm² + CONDUTOR CONCÊNTRICO, SEÇÃO 4 mm²;4C
+3X35+25/2mm² +1X10mm²;5C
+2 x 1,00mm2;1 Par
+3x1,0mm²;1 Trio
+Número deTernas: 8;8 trio
+Botoeira;Tempo
+Interruptor;Tempo
+Trifásico;Trifásico
+Trifasico;Trifásico
+Seco;Aberto
+2500kVA;Aberto
+13,8/0,38kV;Trifásico
+2500kVA;Trifásico
+13.800-480 V;Trifásico
+13,8-0,48 kV;Trifásico
+13,8 -0,4Kv;Trifásico
+Curto;Curto
+Longo;Longo
+Vergalhão;Não Aplicável
+Chumbador;Não Aplicável
+Barra Roscada;Não Aplicável
+Para leito;Leito
+Para Eletrocalha;Eletrocalha
+Contrátil;Termocontrátil
+Contratil;Termocontrátil
+Compressão;Compressão
+Bucha;Pesado
+Eletroduto;Pesado
+Kanaflex;Leve
+2 (dois) Condutores;2C
+3 (três) Condutores;3C
+4 (quatro) Condutores;4C
+5 (cinco) Condutores;5C
+7 (sete) Condutores;7C
+9 (nove) Condutores;9C
+10 (dez) Condutores;10C
+12 (doze) Condutores;12C
+15 (quinze) Condutores;15C
+19 (dezenove) Condutores;19C
+24 (vinte e quatro) Condutores;24C
+Tampa;Leve
+Curva Horizontal;Leve
+Curva Vertical Interna;Leve
+Curva Vertical Externa;Leve
+“T” horizontal;Leve
+Redução;Leve
+Flexível;Tempo
+Condutor;1C
+Rede;2 Par
+Flexivel;Tempo
+Estanhado;Compressão
+2kVA;Trifásico
+Blindado;Tempo
+Curva Interna;Leve
+Curva Externa;Leve
+Número de pares, ternas ou quadras: 1;1 Par
+Número de pares, ternas ou quadras: 2;2 Par
+Número de pares, ternas ou quadras: 4;4 Par
+ 24 a 36 pares;24 Par
+3 Núcleos;3C
+2Pr;2C
+Barra;Alta Camada
+Suporte;Simples
+Profibus;2C
+Aramado;Leve
+Vergalhão;Leve
+Alumínio;Sch 40
+Aluminio;Sch 40
+Abraçadeira;Pesado
+Inox;Sch 40s
+Vetrical;Vertical
+2 + PE;2C
+Lateral;Vertical
+18x;18C
+6 Vias;6C
+Saída Simples;Horizontal
+PEAD;Leve
+Eletroduto corrugado fabricado em PVC;Tempo
+Grampo Galvanizado;Conector
+20 x;20C
+Braçadeira;Pesado
+Semi-Pesado;Semi Pesado
+3X10,0MM² + 10,0MM²;4C
+Grampo U;Pesado
+seal tubo;Tempo
+Caixa, Derivacao;Tempo
+Caixa de Passagem;Tempo
+Flexíveis;Tempo
+Duto aéreo perfurado;Leve
+Unidade Seladora;Pesado
+Polietileno de Alta Densidade;Leve
+Semi - Pesado;Semi Pesado
+15kV;A Frio
+600V;Compressão
+1000V;Compressão
+800V;Compressão
+Conector;Simples
+Haste;Alta Camada
+Dois Cabos;Duplo
+Tipo KS;Split Bolt
+Exotérmico;Solda Exotérmica
+Exotermica;Solda Exotérmica
+13,8kV/380;Trifásico
+13,8/0,44kV;Trifásico
+13,8/0,48kV;Trifásico
+2500kVA;Aberto
+Transformador;Trifásico
+Nylon;Não Aplicável
+3x25 + 16;4C
+3x16 + 16;4C
+3x6 + 6;4C
+6 Condutores;6C
+3x25 mm2+1x16mm2;4C
+3/C#50+1/C#25mm²;4C
+2x(2x1,0;2 Par
+1x(2x1,0;1 Par
+3/C#16+1/C#16;4C
+3x70mm2+35mm2;4C
+x35mm2+16mm2;4C
+Kanaflex;Leve
+Vertrical;Vertical
+Saida Simples;Horizontal
+Semi- Pesado;Semi Pesado
+"Grampo ""U""";Pesado
+12/20 kV;A Frio
+Dois Cabo;Duplo
+Pó de Solda;Solda Exotérmica
+Exo:ermica;Solda Exotérmica
+2500 kVA;Aberto
+3x6 mm2+1x6mm2;4C
+Par simples;1 Par
+Terna Simples;1 Trio
+HDPE;Leve
+Leito;Leito
+Ganhco Longo;Longo
+Kanalex;Leve
+Caixa de Alumínio;Tempo
+Grampo Tipo U;Pesado
+Eletroduto corrugado reforçado fabricado em pvc;Tempo
+15 kV;A Frio
+Caixa de Aluminio;Tempo
+Tirante;Não Aplicável
+2x1 mm²;1 Par
+1,0 mm²;1 Par
+Curva 90°;Pesado
+Suporte Luminária;Curto
+Pino;Ilhós
+Ilhós;Ilhós
+Luva de Redução;Pesado
+Niple;Pesado
+Caixa de Junção;Tempo
+Caixa para Perfilado;Perfilado
+Bloco Autônomo;Tempo
+BLOCO DE ILUMINAÇÃO;Tempo
+União;Pesado
+Conector para Cabos;Compressão
+Suporte Luminaria;Curto
+Mão Francesa;Leito
+Caixa, Perfilado;Perfilado
+6000 psi;6000 lbs
+6000psi;6000 lbs
+3000psi;3000 lbs
+# 6000;6000 lbs
+# 3000;3000 lbs
+#6000;6000 lbs
+#3000;3000 lbs
+Caixa para tomada;Perfilado
+1,0 mm;1,0 mm
+1,24 mm;1,24 mm
+0,89 mm;0,89 mm
+Conector Compressão;6000 lbs
+Tubing;0,89 mm
+Multifibras;Multimodo
+Multimodo;Multimodo
+SM;Monomodo
+Cabo Óptico;Multimodo
+Fibra Óptica;Multimodo
+Fibra ótica;Multimodo
+Fibra Optica;Multimodo
+Conector Compressao;6000 lbs
+Conector Macho;6000 lbs
+A182;6000 lbs
+A276;6000 lbs
+Insert;6000 lbs
+Monomodo;Monomodo
+1,25 mm;1,24 mm
+"0,049""";1,24 mm
+CLASSE DE PRESSÃO 3700;3000 lbs
+3000 psi;3000 lbs
+swagelok;6000 lbs
+6500#;6000 lbs
+6000#;6000 lbs
+Multipla;6000 lbs
+1,24mm;1,24 mm

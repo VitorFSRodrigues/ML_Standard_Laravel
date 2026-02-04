@@ -1,0 +1,232 @@
+﻿Termo;Descricão Padrão
+Tubo;Tubo
+Tubulação;Tubo
+Tubulações;Tubo
+Pipe;Tubo
+Curva;Curva
+Cotovelo;Cotovelo
+Elbow;Cotovelo
+Elbow;Curva
+Bend;Curva
+Esfera;Válvula Esfera
+Ball;Válvula Esfera
+Borboleta;Válvula Borboleta
+Butterfly;Válvula Borboleta
+Globo;Válvula Globo
+Gaveta;Válvula Gaveta
+Retenção;Válvula Retenção
+Guilhotina;Válvula Guilhotina
+Cego;Flange Cego
+Sobreposto;Flange Sobreposto
+LapJoint;Flange Solto (Lap Joint)
+Solto;Flange Solto (Lap Joint)
+Pescoço;Flange com Pescoço
+Pescoco;Flange com Pescoço
+Flange com ;Flange com Pescoço
+Slip;Flange Slip on
+Slipon;Flange Slip on
+Slip on;Flange Slip on
+Flange Encaixe;Flange Encaixe Solda (Socket Welding)
+FLG EncaixeSolda;Flange Encaixe Solda (Socket Welding)
+Flange de Encaixe;Flange Encaixe Solda (Socket Welding)
+Flangep/solda encaixe;Flange Encaixe Solda (Socket Welding)
+Flange Soquete;Flange Encaixe Solda (Socket Welding)
+Flange Roscado;Flange Roscado
+Flange enc;Flange Encaixe Solda (Socket Welding)
+Flange de Solda de Soquete;Flange Encaixe Solda (Socket Welding)
+Neck;Flange com Pescoço
+Flange SO ;Flange Slip on
+FSO ;Flange Slip on
+Flange Soquete;Flange Encaixe Solda (Socket Welding)
+Tê de Redução;Tê de Redução
+Tê Redução;Tê de Redução
+Tê Mecânico de Redução;Tê de Redução
+Tê com Redução;Tê de Redução
+Tê Red;Tê de Redução
+TEE Redução;Tê de Redução
+TEE de Redução;Tê de Redução
+TEE Red;Tê de Redução
+Te Redução;Tê de Redução
+Te de Redução;Tê de Redução
+Te Red;Tê de Redução
+Tê;Tê
+TEE;Tê
+Te Reto;Tê
+Luva de Redução;Luva de Redução
+Luva Red;Luva de Redução
+Luva de Red;Luva de Redução
+Bucha de Redução;Luva de Redução
+Bucha Red;Luva de Redução
+Bucha de Red;Luva de Redução
+Bucha Redução;Luva de Redução
+Niple de Redução;Niple de Redução
+Niple Red;Niple de Redução
+Niple Redução;Niple de Redução
+Niple de Red;Niple de Redução
+Redução;Redução
+Red;Redução
+União;União
+Uniao;União
+Niple;Niple
+Nipple;Niple
+Meia Luva;Meia Luva
+Luva;Luva
+Bujão;Luva
+Bucha;Luva
+Joelho;Cotovelo
+Cap;Tampão
+Tampão;Tampão
+Tampao;Tampão
+Tampao;Tampão
+Tam ;Tampão
+J45;Cotovelo
+J90;Cotovelo
+CRL;Curva
+C90;Curva
+C45;Curva
+Cot. ;Cotovelo
+NRC;Niple de Redução
+NRE;Niple de Redução
+RDE;Redução
+RDC;Redução
+TRE ;Tê de Redução
+TAM ;Tampão
+FCE;Flange Cego
+FSP;Flange Sobreposto
+FPE;Flange com Pescoço
+MLV;Meia Luva
+VGA;Válvula Gaveta
+VRE;Válvula Retenção
+VES;Válvula Esfera
+VGL;Válvula Globo
+FES;Flange Encaixe Solda (Socket Welding)
+Pesc ;Flange com Pescoço
+WN ;Flange com Pescoço
+Solto;Flange Solto (Lap Joint)
+SO ;Flange Solto (Lap Joint)
+Flange Roscado;Flange Roscado
+Flange Rosc;Flange Roscado
+Ret Dup;Válvula Retenção
+Flange RO ;Flange Roscado
+ ES ;Flange Encaixe Solda (Socket Welding)
+Flange;Flange Sobreposto
+Flanges;Flange Sobreposto
+Retencao;Válvula Retenção
+Ret ;Válvula Retenção
+FLG;Flange Sobreposto
+Flange CPVC;Flange Macho
+Flange PVC;Flange Macho
+Fêmea;Flange Fêmea
+Macho;Flange Macho
+Femea;Flange Fêmea
+Adaptador;Adaptador
+Encaixe Solda PVC;Flange Macho
+Flat stub;Flange Macho
+Colar;Colar
+Válvula CPVC;Válvula Esfera
+Válvula Rosqueada CPVC;Válvula Esfera
+Diafragma;Válvula Diafragma
+Controle;Válvula de Controle
+Controladora;Válvula de Controle
+Junta de Expansão;Junta de Expansão
+Amortecedor;Junta de Expansão
+Regulador;Filtro Regulador
+Coalescente;Filtro Coalescente
+Bag;Filtro Bag
+Cesto;Filtro Cesto Simples
+Filtro Y;Filtro Y
+Filtro tipo Y;Filtro Y
+"""Y""";Filtro Y
+"Filtro tipo""Y""";Filtro Y
+Duplo Cesto;Filtro Cesto Duplo
+Cesto Duplo;Filtro Cesto Duplo
+Figura 8;Figura 8
+Sprinkler;Sprinkler
+Engate Rápido;Engate Rápido
+Bimetálico;Puirgador Bimetálico
+Balde;Purgador Balde
+Bóia;Purgador Bóia
+Boia;Purgador Bóia
+Termodinâmico;Purgador Termodinâmico
+Termostático;Purgador Termostático
+Fêmea;Flange Fêmea
+Macho;Flange Macho
+Femea;Flange Fêmea
+Adaptador;Adaptador
+Lobo;Boca de Lobo
+Lôbo;Boca de Lobo
+Derivação Y;Derivação Y
+Pestana;Pestana
+FLG ENCAIXE E SOLDA;Flange Encaixe Solda (Socket Welding)
+Roscado;Flange Roscado
+Galvanizada;Flange
+182;Cotovelo
+ SO;Flange Solto (Lap Joint)
+ SW ;Flange Encaixe Solda (Socket Welding)
+ SW;Flange Encaixe Solda (Socket Welding)
+Flange p/ solda encaixe;Flange Encaixe Solda (Socket Welding)
+Retençao;Válvula Retenção
+Flange tipo encaixe solda;Flange Encaixe Solda (Socket Welding)
+Curva fêmea;Cotovelo
+Curva femea;Cotovelo
+Redução Roscado;Luva de Redução
+Redução Roscado;Luva de Redução
+Redução Rosca;Luva de Redução
+Curva;Cotovelo
+Cotovelo;Curva
+Redução;Luva de Redução
+Galvanizado;Flange Roscado
+Galv;Flange Roscado
+53;Tubo
+106;Tubo
+Red;Luva de Redução
+Sockolet;Sockolet
+Weldolet;Weldolet
+Threadolet;Threadolet
+Van Stone;Flange Macho
+Engate Rapido;Engate Rápido
+Cot;Cotovelo
+Joelho;Curva
+Tê 45° de redução;Tê de Redução
+npt;Flange Roscado
+Flange, ES;Flange Encaixe Solda (Socket Welding)
+Flange, RO;Flange Roscado
+Flange, com ;Flange com Pescoço
+Flange, Encaixe;Flange Encaixe Solda (Socket Welding)
+Flange, de Encaixe;Flange Encaixe Solda (Socket Welding)
+Flange,p/solda encaixe;Flange Encaixe Solda (Socket Welding)
+Flange, Soquete;Flange Encaixe Solda (Socket Welding)
+Flange, Roscado;Flange Roscado
+Flange, enc;Flange Encaixe Solda (Socket Welding)
+Flange, de Solda de Soquete;Flange Encaixe Solda (Socket Welding)
+Flange, SO ;Flange Slip on
+Flange, Soquete;Flange Encaixe Solda (Socket Welding)
+Flange, Roscado;Flange Roscado
+Flange, Rosc;Flange Roscado
+Flange, RO ;Flange Roscado
+Flange, CPVC;Flange Macho
+Flange, PVC;Flange Macho
+Flange, p/ solda encaixe;Flange Encaixe Solda (Socket Welding)
+Flange, tipo encaixe solda;Flange Encaixe Solda (Socket Welding)
+Flange,ES;Flange Encaixe Solda (Socket Welding)
+Flange,RO;Flange Roscado
+Pesc.;Flange com Pescoço
+ ES, ;Flange Encaixe Solda (Socket Welding)
+ SO, ;Flange Slip on
+TAM, ;Tampão
+"TAM;";Tampão
+FCE,;Flange Cego
+FSP,;Flange Sobreposto
+FPE,;Flange com Pescoço
+FSO,;Flange Slip on
+TRE, ;Tê de Redução
+Tê, ;Tê
+"TRE; ";Tê de Redução
+Colarinho;Colarinho
+Stub;Stub End
+Protetor;Colarinho
+TEE 90º, Redução;Tê de Redução
+Flange Revstido;Flange Solto (Lap Joint)
+Flange em PEAD;Flange Solto (Lap Joint)
+Reducer;Redução
+Reducer TEE;Tê de Redução

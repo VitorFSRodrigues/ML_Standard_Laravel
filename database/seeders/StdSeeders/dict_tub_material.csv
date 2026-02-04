@@ -1,0 +1,253 @@
+﻿Termo;Descricão Padrão
+ASTMA53;Aço Carbono
+ASTMA106;Aço Carbono
+NBR5590;Aço Carbono
+NBR5580;Aço Carbono
+API5L;Aço Carbono
+ASTMA134;Aço Carbono
+ASTMA139;Aço Carbono
+DIN2440;Aço Carbono
+ASTMA216;Aço Carbono
+ASTMA A126;Aço Carbono
+A53;Aço Carbono
+A106;Aço Carbono
+A216;Aço Carbono
+A126;Aço Carbono
+A536;Aço Carbono
+A134;Aço Carbono
+ASTMA312;Aço Inox
+A312;Aço Inox
+ASTMA351;Aço Inox
+A351;Aço Inox
+ASTMA234;Aço Carbono
+ASTMA197;Galvanizado ou Preto
+ASTMA105;Galvanizado ou Preto
+ASTMA105;Aço Carbono
+A234;Aço Carbono
+A197;Galvanizado ou Preto
+A105;Galvanizado ou Preto
+A105;Aço Carbono
+ASTMA403;Aço Inox
+A403;Aço Inox
+ASTMA182;Aço Inox
+A182;Aço Inox
+A181;Aço Inox
+Aço Carbono;Aço Carbono
+Carbono;Aço Carbono
+AC ;Aço Carbono
+Aço Inox;Aço Inox
+Inox;Aço Inox
+AI ;Aço Inox
+Galvanizado;Galvanizado
+Galv;Galvanizado
+Galvanizado;Galvanizado ou Preto
+Galv;Galvanizado ou Preto
+53;Aço Carbono
+106;Aço Carbono
+5l;Aço Carbono
+134;Aço Carbono
+139;Aço Carbono
+2440;Aço Carbono
+216;Aço Carbono
+126;Aço Carbono
+536;Aço Carbono
+234;Aço Carbono
+197;Galvanizado ou Preto
+105;Galvanizado ou Preto
+5590;Aço Carbono
+5580;Aço Carbono
+197;Preto
+105;Preto
+312;Aço Inox
+403;Aço Inox
+182;Aço Inox
+181;Aço Inox
+304;Aço Inox
+316;Aço Inox
+352;Aço Inox
+FM ;Galvanizado ou Preto
+FM ;Preto
+Ferro Maleavel;Galvanizado ou Preto
+Ferro Maleavel;Preto
+Ferro Fundido;Aço Carbono
+Encaixe Solda;Preto
+Encaixe p/ solda;Preto
+Encaixede Solda;Preto
+Encaixe para solda;Preto
+Encaixe e Solda;Preto
+Soquete;Preto
+Socket;Preto
+SW;Preto
+S.W;Preto
+Rosc;Galvanizado ou Preto
+Rosq;Galvanizado ou Preto
+ RO ;Galvanizado ou Preto
+Rosc;Galvanizado
+Rosq;Galvanizado
+ RO ;Galvanizado
+PVC;PVC-U
+Marrom;PVC Marrom
+Branco;PVC Branco
+CPVC;CPVC
+Bolsa;PVC Marrom
+Rígido;PVC Branco
+Bege;PVC Marrom
+EPDM;Aço Carbono
+Borracha;Aço Carbono
+Engate Rápido;Aço Carbono
+Regulador;Aço Carbono
+Coalescente;Aço Carbono
+Bag;Aço Carbono
+Cesto;Aço Carbono
+Filtro Y;Aço Carbono
+Filtro tipo Y;Aço Carbono
+"""Y""";Aço Carbono
+"Filtro tipo""Y""";Aço Carbono
+Duplo Cesto;Aço Carbono
+Cesto Duplo;Aço Carbono
+Figura 8;Aço Carbono
+Sprinkler;Aço Carbono
+Bimetálico;Aço Inox
+Balde;Aço Carbono
+Bóia;Aço Carbono
+Termostático;Aço Inox
+105;Aço Carbono
+Sch40;Aço Carbono
+Tubo;Aço Carbono
+Válvula;Aço Carbono
+36;Aço Carbono
+Aço Inóx;Aço Inox
+351;Aço Inox
+flange ;Aço Carbono
+válv;Aço Carbono
+valv;Aço Carbono
+234;Aço Carbono
+bsp;Galvanizado ou Preto
+bsp;Galvanizado
+Encaixe para solda;
+npt;Galvanizado ou Preto
+npt;Galvanizado ou Preto
+120;Aço Carbono
+ es ;Preto
+420;Aço Carbono
+solda de encaixe;Preto
+Rigido;PVC Branco
+PVC-C;CPVC
+pbs;PVC Marrom
+bege;PVC Marrom
+Junta;Aço Carbono
+Sch 5s;Aço Inox
+Sch 10s;Aço Inox
+Sch 20s;Aço Inox
+Sch 40s;Aço Inox
+Sch 80s;Aço Inox
+Sch 160s;Aço Inox
+Sch XXS;Aço Inox
+Sch5s;Aço Inox
+Sch10s;Aço Inox
+Sch20s;Aço Inox
+Sch40s;Aço Inox
+Sch80s;Aço Inox
+Sch160s;Aço Inox
+SchXXS;Aço Inox
+Schedule 5s;Aço Inox
+Schedule 10s;Aço Inox
+Schedule 20s;Aço Inox
+Schedule 40s;Aço Inox
+Schedule 80s;Aço Inox
+Schedule 160s;Aço Inox
+Schedule XXS;Aço Inox
+Sch. 5s;Aço Inox
+Sch. 10s;Aço Inox
+Sch. 20s;Aço Inox
+Sch. 40s;Aço Inox
+Sch. 80s;Aço Inox
+Sch. 160s;Aço Inox
+Sch. XXS;Aço Inox
+Sch.5s;Aço Inox
+Sch.10s;Aço Inox
+Sch.20s;Aço Inox
+Sch.40s;Aço Inox
+Sch.80s;Aço Inox
+Sch.160s;Aço Inox
+Sch.XXS;Aço Carbono
+Schedule 10;Aço Carbono
+Schedule 20;Aço Carbono
+Schedule 30;Aço Carbono
+Schedule 40;Aço Carbono
+Schedule 60;Aço Carbono
+Schedule 80;Aço Carbono
+Schedule 100;Aço Carbono
+Schedule 120;Aço Carbono
+Schedule 140;Aço Carbono
+Schedule 160;Aço Carbono
+Sch 10;Aço Carbono
+Sch 20;Aço Carbono
+Sch 30;Aço Carbono
+Sch 40;Aço Carbono
+Sch 60;Aço Carbono
+Sch 80;Aço Carbono
+Sch 100;Aço Carbono
+Sch 120;Aço Carbono
+Sch 140;Aço Carbono
+Sch 160;Aço Carbono
+Sch XS;Aço Carbono
+Sch XXS;Aço Carbono
+Sch10;Aço Carbono
+Sch20;Aço Carbono
+Sch30;Aço Carbono
+Sch40;Aço Carbono
+Sch60;Aço Carbono
+Sch80;Aço Carbono
+Sch100;Aço Carbono
+Sch120;Aço Carbono
+Sch140;Aço Carbono
+Sch160;Aço Carbono
+SchXS;Aço Carbono
+SchXXS;Aço Carbono
+Sch. 10;Aço Carbono
+Sch. 20;Aço Carbono
+Sch. 30;Aço Carbono
+Sch. 40;Aço Carbono
+Sch. 60;Aço Carbono
+Sch. 80;Aço Carbono
+Sch. 100;Aço Carbono
+Sch. 120;Aço Carbono
+Sch. 140;Aço Carbono
+Sch. 160;Aço Carbono
+Sch. XS;Aço Carbono
+Sch. XXS;Aço Carbono
+Sch.10;Aço Carbono
+Sch.20;Aço Carbono
+Sch.30;Aço Carbono
+Sch.40;Aço Carbono
+Sch.60;Aço Carbono
+Sch.80;Aço Carbono
+Sch.100;Aço Carbono
+Sch.120;Aço Carbono
+Sch.140;Aço Carbono
+Sch.160;Aço Carbono
+Sch.XS;Aço Carbono
+Sch.XXS;Aço Carbono
+bronze;Aço Carbono
+40s;Aço Inox
+ xs ;Aço Carbono
+Duplex;Aço Inox
+62;Aço Carbono
+gv;Galvanizado ou Preto
+gv;Galvanizado
+storz;Galvanizado ou Preto
+Latão;Galvanizado ou Preto
+Ferro Maleável;Galvanizado ou Preto
+Flange, ;Aço Carbono
+ES, ;Preto
+"ES; ";Preto
+"RO; ";Galvanizado ou Preto
+PEAD;PEAD
+PE 80;PEAD
+PE 100;PEAD
+335;Aço Liga
+WP91;Aço Liga
+WP11;Aço Liga
+P91;Aço Liga
+WP22;Aço Liga
