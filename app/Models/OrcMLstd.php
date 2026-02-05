@@ -25,4 +25,9 @@ class OrcMLstd extends Model
     {
         return $this->belongsTo(Orcamentista::class, 'orcamentista_id');
     }
+
+    public function evidenciaUsoMl()
+    {
+        return $this->hasOne(EvidenciaUsoMl::class, 'orc_ml_std_id');
+    }
 }

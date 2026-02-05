@@ -32,6 +32,7 @@ class DatabaseSeeder extends Seeder
         $this->call(DictSeeder::class);
         $this->call(MlFeedbackSamplesSeeder::class);
         $this->call(ModelosMlSeeder::class);
+        $this->call(EvidenciasUsoMlSeeder::class);
     }
 }
 

@@ -14,6 +14,7 @@ use App\Http\Controllers\StdTUBController;
 use App\Http\Controllers\TriagemController;
 use App\Http\Controllers\VarreduraController;
 use App\Http\Controllers\DicionariosController;
+use App\Http\Controllers\EvidenciasUsoMlController;
 use App\Http\Controllers\TreinoLogsController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TriagemPerguntaController;
@@ -117,6 +118,12 @@ Route::post('/triagem/sync', [TriagemSyncController::class, 'store'])
 
 Route::get('/orcMLstd', [OrcMLstdController::class, 'index'])
     ->name('orcMLstd.index');
+
+Route::get('/orcMLstd/evidencias-uso', [EvidenciasUsoMlController::class, 'index'])
+    ->name('orc-mlstd.evidencias-uso.index');
+
+Route::post('/orcMLstd/evidencias-uso/tempos', [EvidenciasUsoMlController::class, 'updateTempos'])
+    ->name('orc-mlstd.evidencias-uso.tempos.update');
 
 Route::get('/orcMLstd/{id}/levantamento', [OrcMLstdController::class, 'levantamento'])
     ->whereNumber('id')

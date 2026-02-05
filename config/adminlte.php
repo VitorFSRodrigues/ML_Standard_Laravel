@@ -350,6 +350,12 @@ return [
                     'url'  => 'StdTUB',
                     'icon' => 'fas fa-fw fa-filter',
                 ],
+                [
+                    'text' => 'Evidencias de Uso',
+                    'url' => 'orcMLstd/evidencias-uso',
+                    'icon' => 'fas fa-chart-line',
+                    'active' => ['orcMLstd/evidencias-uso*'],
+                ],
             ],
         ],
         [
