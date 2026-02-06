@@ -299,38 +299,6 @@ return [
     */
 
     'menu' => [
-        ['text' => 'Home', 'url' => 'home', 'icon' => 'fas fa-home'],
-        ['text' => 'Clientes', 'url' => 'clientes-orcamentos', 'icon' => 'fas fa-users'],
-        [
-            'text' => 'Triagem',
-            'icon' => 'fas fa-list',
-            'submenu' => [
-                [
-                    'text' => 'Triagem',
-                    'route' => 'triagem.index',     // ou 'url' => 'triagem'
-                    'icon'  => 'fas fa-filter',
-                    // realça ativo pela rota (opcional):
-                    'active' => ['triagem*'],
-                ],
-                [
-                    'text' => 'Perguntas',
-                    'route' => 'perguntas.index',   // ou 'url' => 'perguntas'
-                    'icon'  => 'fas fa-question',
-                    'active' => ['perguntas*'],
-                ],
-            ],
-        ],
-        ['text'   => 'Requisitos', 'url'  => 'requisitos', 'icon'   => 'fas fa-clipboard-check'],
-        ['text'   => 'Orçamentistas',
-            'route'  => 'orcamentista.index',
-            'icon'   => 'fas fa-user-tie',
-            'active' => ['orçamentista*', 'orcamentistas*'], // cobre os dois
-        ],
-        ['text'   => 'Acervo',
-            'route'  => 'acervo.index',
-            'icon'   => 'fas fa-archive',
-            'active' => ['acervo*'],
-        ],
         [
             'text' => 'ML Standard',
             'icon' => 'fas fa-robot',
@@ -339,22 +307,26 @@ return [
                     'text' => 'ML Standard',
                     'url'  => 'orcMLstd',
                     'icon' => 'fas fa-table',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'STD ELÉTRICA',
                     'url'  => 'StdELE',
                     'icon' => 'fas fa-bolt',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'STD TUBULAÇÃO',
                     'url'  => 'StdTUB',
                     'icon' => 'fas fa-fw fa-filter',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Evidencias de Uso',
                     'url' => 'orcMLstd/evidencias-uso',
                     'icon' => 'fas fa-chart-line',
                     'active' => ['orcMLstd/evidencias-uso*'],
+                    'shift' => 'pl-4',
                 ],
             ],
         ],
@@ -366,26 +338,31 @@ return [
                     'text' => 'Aprovação',
                     'url'  => 'aprovacao',
                     'icon' => 'fas fa-graduation-cap',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Modelos ML',
                     'url'  => 'modelos_ml',
                     'icon' => 'fas fa-network-wired',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Varredura',
                     'url'  => 'varredura',
                     'icon' => 'fas fa-search',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Dicionarios',
                     'url'  => 'dicionarios',
                     'icon' => 'fas fa-book',
+                    'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Logs de Treino',
                     'url'  => 'treino-logs',
                     'icon' => 'fas fa-clipboard-list',
+                    'shift' => 'pl-4',
                 ],
             ],
         ],

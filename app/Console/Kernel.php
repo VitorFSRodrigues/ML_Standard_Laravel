@@ -12,10 +12,6 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule): void
     {
-        $schedule->command('pipedrive:sync')
-            ->everyMinutes((int) config('pipedrive.sync.interval_minutes', 60))
-            ->withoutOverlapping()
-            ->onOneServer(); // se usar múltiplas instâncias no futuro
     }
 
     /**

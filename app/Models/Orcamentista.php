@@ -14,9 +14,4 @@ class Orcamentista extends Model
     protected $fillable = [
         'nome','email'
     ];
-    public function triagens()
-    {
-        // Triagens encaminhadas para orçamento e vinculadas a este orçamentista
-        return $this->hasMany(Triagem::class, 'orcamentista_id');
-    }
 }

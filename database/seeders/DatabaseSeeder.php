@@ -18,14 +18,9 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
-        $this->call([ClientesSeeder::class]);
-        $this->call([PerguntasSeeder::class]);
         $this->call([
             OrcamentistasSeeder::class,
-            ConferenteOrcamentistaSeeder::class,
-            ConferenteComercialSeeder::class,
         ]);
-        $this->call(PipedriveSampleSeeder::class);
         $this->call(OrcMLstdSeeder::class);
         $this->call(StdELESeeder::class);
         $this->call(StdTUBSeeder::class);
