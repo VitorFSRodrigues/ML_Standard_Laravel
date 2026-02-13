@@ -2,8 +2,8 @@
 
 namespace Database\Seeders;
 
-use App\Models\MlFeedbackSample;
-use App\Models\OrcMLstd;
+use App\Modules\MLRetreinamentos\Models\MlFeedbackSample;
+use App\Modules\MLStandard\Models\OrcMLstd;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use PhpOffice\PhpSpreadsheet\IOFactory;

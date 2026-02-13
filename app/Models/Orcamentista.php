@@ -8,10 +8,11 @@ use Illuminate\Database\Eloquent\Model;
 class Orcamentista extends Model
 {
     use HasFactory;
-    
+
     protected $table = 'orcamentistas';
 
     protected $fillable = [
-        'nome','email'
+        'nome',
+        'email',
     ];
 }

@@ -2,13 +2,13 @@
 
 namespace Database\Seeders;
 
-use App\Models\StdELE;
-use App\Models\StdEleTipo;
-use App\Models\StdEleMaterial;
-use App\Models\StdEleConexao;
-use App\Models\StdEleEspessura;
-use App\Models\StdEleExtremidade;
-use App\Models\StdEleDimensao;
+use App\Modules\MLStandard\Models\StdELE;
+use App\Modules\MLStandard\Models\StdEleTipo;
+use App\Modules\MLStandard\Models\StdEleMaterial;
+use App\Modules\MLStandard\Models\StdEleConexao;
+use App\Modules\MLStandard\Models\StdEleEspessura;
+use App\Modules\MLStandard\Models\StdEleExtremidade;
+use App\Modules\MLStandard\Models\StdEleDimensao;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use PhpOffice\PhpSpreadsheet\IOFactory;

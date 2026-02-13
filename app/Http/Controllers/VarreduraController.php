@@ -2,18 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Varredura;
-use Illuminate\View\View;
+use App\Modules\MLRetreinamentos\Http\Controllers\VarreduraController as ModuleVarreduraController;
 
-class VarreduraController extends Controller
+class VarreduraController extends ModuleVarreduraController
 {
-    public function index(): View
-    {
-        return view('varredura.index');
-    }
-
-    public function show(Varredura $varredura): View
-    {
-        return view('varredura.show', compact('varredura'));
-    }
 }

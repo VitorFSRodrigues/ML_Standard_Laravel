@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Models\OrcMLstd;
+use App\Modules\MLStandard\Models\OrcMLstd;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use PhpOffice\PhpSpreadsheet\IOFactory;

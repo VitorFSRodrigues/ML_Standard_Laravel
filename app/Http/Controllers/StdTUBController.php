@@ -2,10 +2,8 @@
 
 namespace App\Http\Controllers;
 
-class StdTUBController extends Controller
+use App\Modules\MLStandard\Http\Controllers\StdTUBController as ModuleStdTUBController;
+
+class StdTUBController extends ModuleStdTUBController
 {
-    public function index()
-    {
-        return view('stdtub.index');
-    }
 }

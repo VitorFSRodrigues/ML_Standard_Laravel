@@ -2,17 +2,17 @@
 
 namespace Database\Seeders;
 
-use App\Models\DictEleConexao;
-use App\Models\DictEleDimensao;
-use App\Models\DictEleEspessura;
-use App\Models\DictEleExtremidade;
-use App\Models\DictEleMaterial;
-use App\Models\DictEleTipo;
-use App\Models\DictTubDiametro;
-use App\Models\DictTubExtremidade;
-use App\Models\DictTubMaterial;
-use App\Models\DictTubSchedule;
-use App\Models\DictTubTipo;
+use App\Modules\MLRetreinamentos\Models\DictEleConexao;
+use App\Modules\MLRetreinamentos\Models\DictEleDimensao;
+use App\Modules\MLRetreinamentos\Models\DictEleEspessura;
+use App\Modules\MLRetreinamentos\Models\DictEleExtremidade;
+use App\Modules\MLRetreinamentos\Models\DictEleMaterial;
+use App\Modules\MLRetreinamentos\Models\DictEleTipo;
+use App\Modules\MLRetreinamentos\Models\DictTubDiametro;
+use App\Modules\MLRetreinamentos\Models\DictTubExtremidade;
+use App\Modules\MLRetreinamentos\Models\DictTubMaterial;
+use App\Modules\MLRetreinamentos\Models\DictTubSchedule;
+use App\Modules\MLRetreinamentos\Models\DictTubTipo;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 

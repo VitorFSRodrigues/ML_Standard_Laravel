@@ -2,8 +2,8 @@
 
 namespace App\Observers;
 
-use App\Models\EvidenciaUsoMl;
-use App\Models\OrcMLstd;
+use App\Modules\MLStandard\Models\EvidenciaUsoMl;
+use App\Modules\MLStandard\Models\OrcMLstd;
 
 class OrcMLstdObserver
 {

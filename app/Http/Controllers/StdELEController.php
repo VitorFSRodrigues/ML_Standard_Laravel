@@ -2,12 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\View\View;
+use App\Modules\MLStandard\Http\Controllers\StdELEController as ModuleStdELEController;
 
-class StdELEController extends Controller
+class StdELEController extends ModuleStdELEController
 {
-    public function index(): View
-    {
-        return view('stdele.index');
-    }
 }

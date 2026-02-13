@@ -2,8 +2,8 @@
 
 namespace Database\Seeders;
 
-use App\Models\EvidenciaUsoMl;
-use App\Models\OrcMLstd;
+use App\Modules\MLStandard\Models\EvidenciaUsoMl;
+use App\Modules\MLStandard\Models\OrcMLstd;
 use Carbon\Carbon;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;

@@ -1,9 +1,9 @@
 <?php
 
 namespace App\Providers;
-use App\Models\OrcMLstd;
-use App\Observers\OrcMLstdObserver;
 
+use App\Modules\MLStandard\Models\OrcMLstd;
+use App\Observers\OrcMLstdObserver;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider

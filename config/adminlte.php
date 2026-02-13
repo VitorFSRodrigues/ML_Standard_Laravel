@@ -297,7 +297,6 @@ return [
     | https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Menu-Configuration
     |
     */
-
     'menu' => [
         [
             'text' => 'ML Standard',
@@ -305,28 +304,28 @@ return [
             'submenu' => [
                 [
                     'text' => 'ML Standard',
-                    'url'  => 'orcMLstd',
+                    'route' => 'mlstandard.orcamentos.index',
                     'icon' => 'fas fa-table',
                     'shift' => 'pl-4',
                 ],
                 [
-                    'text' => 'STD ELÉTRICA',
-                    'url'  => 'StdELE',
+                    'text' => 'STD ELETRICA',
+                    'route' => 'mlstandard.std-ele.index',
                     'icon' => 'fas fa-bolt',
                     'shift' => 'pl-4',
                 ],
                 [
-                    'text' => 'STD TUBULAÇÃO',
-                    'url'  => 'StdTUB',
+                    'text' => 'STD TUBULACAO',
+                    'route' => 'mlstandard.std-tub.index',
                     'icon' => 'fas fa-fw fa-filter',
                     'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Evidencias de Uso',
-                    'url' => 'orcMLstd/evidencias-uso',
+                    'route' => 'mlstandard.orcamentos.evidencias-uso.index',
                     'icon' => 'fas fa-chart-line',
-                    'active' => ['orcMLstd/evidencias-uso*'],
                     'shift' => 'pl-4',
+                    'active' => ['ml-standard/orcamentos/evidencias-uso*'],
                 ],
             ],
         ],
@@ -335,133 +334,38 @@ return [
             'icon' => 'fas fa-sync-alt',
             'submenu' => [
                 [
-                    'text' => 'Aprovação',
-                    'url'  => 'aprovacao',
+                    'text' => 'Aprovacao',
+                    'route' => 'mlretreinamentos.aprovacao.index',
                     'icon' => 'fas fa-graduation-cap',
                     'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Modelos ML',
-                    'url'  => 'modelos_ml',
+                    'route' => 'mlretreinamentos.modelos.index',
                     'icon' => 'fas fa-network-wired',
                     'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Varredura',
-                    'url'  => 'varredura',
+                    'route' => 'mlretreinamentos.varredura.index',
                     'icon' => 'fas fa-search',
                     'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Dicionarios',
-                    'url'  => 'dicionarios',
+                    'route' => 'mlretreinamentos.dicionarios.index',
                     'icon' => 'fas fa-book',
                     'shift' => 'pl-4',
                 ],
                 [
                     'text' => 'Logs de Treino',
-                    'url'  => 'treino-logs',
+                    'route' => 'mlretreinamentos.treino-logs.index',
                     'icon' => 'fas fa-clipboard-list',
                     'shift' => 'pl-4',
                 ],
             ],
         ],
-
-        // // Navbar items:
-        // [
-        //     'type' => 'navbar-search',
-        //     'text' => 'search',
-        //     'topnav_right' => true,
-        // ],
-        // [
-        //     'type' => 'fullscreen-widget',
-        //     'topnav_right' => true,
-        // ],
-
-        // // Sidebar items:
-        // [
-        //     'type' => 'sidebar-menu-search',
-        //     'text' => 'search',
-        // ],
-        // [
-        //     'text' => 'blog',
-        //     'url' => 'admin/blog',
-        //     'can' => 'manage-blog',
-        // ],
-        // [
-        //     'text' => 'pages',
-        //     'url' => 'admin/pages',
-        //     'icon' => 'far fa-fw fa-file',
-        //     'label' => 4,
-        //     'label_color' => 'success',
-        // ],
-        // ['header' => 'account_settings'],
-        // [
-        //     'text' => 'profile',
-        //     'url' => 'admin/settings',
-        //     'icon' => 'fas fa-fw fa-user',
-        // ],
-        // [
-        //     'text' => 'change_password',
-        //     'url' => 'admin/settings',
-        //     'icon' => 'fas fa-fw fa-lock',
-        // ],
-        // [
-        //     'text' => 'multilevel',
-        //     'icon' => 'fas fa-fw fa-share',
-        //     'submenu' => [
-        //         [
-        //             'text' => 'level_one',
-        //             'url' => '#',
-        //         ],
-        //         [
-        //             'text' => 'level_one',
-        //             'url' => '#',
-        //             'submenu' => [
-        //                 [
-        //                     'text' => 'level_two',
-        //                     'url' => '#',
-        //                 ],
-        //                 [
-        //                     'text' => 'level_two',
-        //                     'url' => '#',
-        //                     'submenu' => [
-        //                         [
-        //                             'text' => 'level_three',
-        //                             'url' => '#',
-        //                         ],
-        //                         [
-        //                             'text' => 'level_three',
-        //                             'url' => '#',
-        //                         ],
-        //                     ],
-        //                 ],
-        //             ],
-        //         ],
-        //         [
-        //             'text' => 'level_one',
-        //             'url' => '#',
-        //         ],
-        //     ],
-        // ],
-        // ['header' => 'labels'],
-        // [
-        //     'text' => 'important',
-        //     'icon_color' => 'red',
-        //     'url' => '#',
-        // ],
-        // [
-        //     'text' => 'warning',
-        //     'icon_color' => 'yellow',
-        //     'url' => '#',
-        // ],
-        // [
-        //     'text' => 'information',
-        //     'icon_color' => 'cyan',
-        //     'url' => '#',
-        // ],
     ],
-
     /*
     |--------------------------------------------------------------------------
     | Menu Filters
@@ -616,3 +520,4 @@ return [
 
     'livewire' => false,
 ];
+

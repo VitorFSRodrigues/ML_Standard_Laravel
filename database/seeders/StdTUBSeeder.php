@@ -2,12 +2,12 @@
 
 namespace Database\Seeders;
 
-use App\Models\StdTUB;
-use App\Models\StdTubTipo;
-use App\Models\StdTubMaterial;
-use App\Models\StdTubSchedule;
-use App\Models\StdTubExtremidade;
-use App\Models\StdTubDiametro;
+use App\Modules\MLStandard\Models\StdTUB;
+use App\Modules\MLStandard\Models\StdTubTipo;
+use App\Modules\MLStandard\Models\StdTubMaterial;
+use App\Modules\MLStandard\Models\StdTubSchedule;
+use App\Modules\MLStandard\Models\StdTubExtremidade;
+use App\Modules\MLStandard\Models\StdTubDiametro;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use PhpOffice\PhpSpreadsheet\IOFactory;

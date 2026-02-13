@@ -2,8 +2,8 @@
 
 namespace App\Jobs;
 
-use App\Models\ModeloMl;
-use App\Models\Varredura;
+use App\Modules\MLRetreinamentos\Models\ModeloMl;
+use App\Modules\MLRetreinamentos\Models\Varredura;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
@@ -12,7 +12,7 @@ use Illuminate\Queue\SerializesModels;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Log;
-use App\Models\TreinoLog;
+use App\Modules\MLRetreinamentos\Models\TreinoLog;
 
 class PollTrainStatusJob implements ShouldQueue
 {

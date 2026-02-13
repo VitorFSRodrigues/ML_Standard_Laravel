@@ -2,10 +2,8 @@
 
 namespace App\Http\Controllers;
 
-class MlAprovacaoController extends Controller
+use App\Modules\MLRetreinamentos\Http\Controllers\MlAprovacaoController as ModuleMlAprovacaoController;
+
+class MlAprovacaoController extends ModuleMlAprovacaoController
 {
-    public function index()
-    {
-        return view('ml.aprovacao.index');
-    }
 }

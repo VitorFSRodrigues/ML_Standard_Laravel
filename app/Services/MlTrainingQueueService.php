@@ -2,8 +2,8 @@
 
 namespace App\Services;
 
-use App\Models\MlFeedbackSample;
-use App\Models\MlTrainingQueueItem;
+use App\Modules\MLRetreinamentos\Models\MlFeedbackSample;
+use App\Modules\MLRetreinamentos\Models\MlTrainingQueueItem;
 use Illuminate\Support\Carbon;
 
 class MlTrainingQueueService

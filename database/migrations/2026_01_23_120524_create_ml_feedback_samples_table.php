@@ -13,10 +13,7 @@ return new class extends Migration
 
             // contexto
             $table->string('disciplina', 10)->index(); // ELE | TUB
-            $table->foreignId('varredura_id')
-                ->nullable()
-                ->constrained('varredura')
-                ->nullOnDelete();
+            $table->unsignedBigInteger('varredura_id')->nullable()->index();
             $table->unsignedBigInteger('orc_ml_std_id')->nullable()->index();
             $table->unsignedBigInteger('orc_ml_std_item_id')->nullable()->index();
             $table->integer('ordem')->default(0)->index();

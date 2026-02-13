@@ -2,9 +2,9 @@
 
 namespace App\Services;
 
-use App\Models\MlFeedbackSample;
-use App\Models\OrcMLstdItem;
-use App\Models\Varredura;
+use App\Modules\MLRetreinamentos\Models\MlFeedbackSample;
+use App\Modules\MLStandard\Models\OrcMLstdItem;
+use App\Modules\MLRetreinamentos\Models\Varredura;
 
 class MlFeedbackService
 {

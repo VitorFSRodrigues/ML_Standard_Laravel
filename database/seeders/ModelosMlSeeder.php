@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Models\ModeloMl;
+use App\Modules\MLRetreinamentos\Models\ModeloMl;
 use Carbon\Carbon;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;

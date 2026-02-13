@@ -2,12 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\View\View;
+use App\Modules\MLRetreinamentos\Http\Controllers\DicionariosController as ModuleDicionariosController;
 
-class DicionariosController extends Controller
+class DicionariosController extends ModuleDicionariosController
 {
-    public function index(): View
-    {
-        return view('dicionarios.index');
-    }
 }

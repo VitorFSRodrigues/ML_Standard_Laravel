@@ -2,12 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\View\View;
+use App\Modules\MLRetreinamentos\Http\Controllers\TreinoLogsController as ModuleTreinoLogsController;
 
-class TreinoLogsController extends Controller
+class TreinoLogsController extends ModuleTreinoLogsController
 {
-    public function index(): View
-    {
-        return view('treino-logs.index');
-    }
 }
